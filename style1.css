@@ -1,0 +1,53 @@
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkblue;
+}
+
+body{
+    background-color: white;
+}
+
+h5{
+    font-family:  century;
+    font-weight: bold;
+    color: darkblue;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+.card{
+  background-color: lightblue;
+  cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+footer{
+    background-color: white;
+}
+
+.h2-footer{
+    color: darkblue;
+    background-color: white;
+}
+
+.p-footer{
+    color: black;
+    background-color: white;
+}
+
+.p-carrossel{
+    background-color: lightblue;
+    color: black;
+    font-family: Fredoka One, cursive;
+}

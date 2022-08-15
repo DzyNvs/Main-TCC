@@ -1,0 +1,28 @@
+create database SPSUBMERSO;
+use SPSUBMERSO;
+
+create table tbusuarios(
+
+idcliente int primary key auto_increment,
+nomeuser varchar(40),
+emailuser varchar(120) primary key,
+senhauser varchar (40),
+admin int(1)
+
+);
+
+create table tbLugares(
+idLugar int primary key auto_increment,
+nome varchar(40),
+endereço varchar(40),
+telefone varchar(40),
+descricao varchar(150),
+site varchar(40)
+);
+
+create table formContato(
+idcontato int primary key auto_increment,
+telefoneuser varchar(40),
+assunto varchar(40),
+mensagem varchar(150)
+);
