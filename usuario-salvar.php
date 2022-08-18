@@ -1,5 +1,6 @@
 <?php
     include('conexao.php');
+
     if(!empty($_POST['username']) && !empty($_POST['useremail']) && !empty($_POST['userpass'])){
 
 
@@ -8,6 +9,7 @@
         $txsenha = $_POST['userpass'];
         $txsenha2 = $_POST['userpass2'];
         $emailbanco ="";
+       
 
 
         $stmt = $pdo->prepare("select emailuser from tbusuarios where emailuser='$txemail'");	
@@ -18,7 +20,9 @@
         }
         
         if ($txemail == $emailbanco ) {
-            header("location:registro.php");
+
+            echo "E-mail já cadastrado!";
+            header("Location: registro.php?erro=emailcadastrado");
 
         }else{
 
@@ -29,7 +33,8 @@
                 header("location:login.php");
             }
             else{ 
-                header("location:registro.php");
+                
+                header("Location: registro.php?erro=senhanaocorrespondentes");
             }
 
         }

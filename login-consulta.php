@@ -27,8 +27,7 @@ if(!empty($_POST['emailuser']) && !empty($_POST['userpass'])){
         $_SESSION['autorizar'] =  false;
         unset($_SESSION['autorizar']);
         session_destroy();
-        echo "E-mail ou senha incorretos!";
-        header("location:login.php");
+        header("Location: login.php?erro=informacoesinvalidas");
     }
 
 

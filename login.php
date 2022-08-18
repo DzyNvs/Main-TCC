@@ -24,6 +24,11 @@
 
         <h1 class="login__title">Fazer login</h1>
         <form action ="login-consulta.php" method ="post">
+        <h4 class ="error">
+           <?php
+          if (isset($_GET['erro'])) { if ($_GET['erro'] == "informacoesinvalidas") { echo "A senha ou e-mail está incorreta!"; }}
+  ?>  
+          </h4>
         <label class="login__label">
           <span>E-mail do usuário</span>
           <input type="text" name="emailuser" class="input">

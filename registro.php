@@ -1,5 +1,4 @@
   <?php include ("conexao.php");
-
   ?>
   
   <!DOCTYPE html>
@@ -32,6 +31,12 @@
         <label class="login__label">
           <span>email</span>
           <input type="email" name="useremail" class="input">
+          <h4 class ="error">
+           <?php
+          if (isset($_GET['erro'])) { if ($_GET['erro'] == "emailcadastrado") { echo "O e-mail informado, já foi cadastrado!"; }}
+  ?>  
+          </h4>
+          
         </label>
   
   
@@ -43,6 +48,11 @@
         <label class="login__label">
           <span>Confirme a senha</span>
           <input type="password" name="userpass2" class="input">
+          <h4 class ="error">
+           <?php
+          if (isset($_GET['erro'])) { if ($_GET['erro'] == "senhanaocorrespondentes") { echo "As senhas não conferem!"; }}
+  ?>  
+          </h4>
         </label>
         
         <label class="login__label--checkbox">
