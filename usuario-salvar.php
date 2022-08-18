@@ -7,17 +7,18 @@
         $txemail = $_POST['useremail'];
         $txsenha = $_POST['userpass'];
         $txsenha2 = $_POST['userpass2'];
+        $emailbanco ="";
 
 
-        $checkuser = $pdo->prepare("SELECT COUNT(*) FROM tbusuarios where emailuser ='$txemail'");
-        $checkuser ->execute();
+        $stmt = $pdo->prepare("select emailuser from tbusuarios where emailuser='$txemail'");	
+        $stmt ->execute();	
+
+        while ($row = $stmt ->fetch(PDO::FETCH_BOTH)) {
+            $emailbanco = $row['emailuser'];
+        }
         
-        if ($checkuser >= 1){
-
-            echo "E-mail já cadastrado. Tente outro!";
+        if ($txemail == $emailbanco ) {
             header("location:registro.php");
-
-
 
         }else{
 
