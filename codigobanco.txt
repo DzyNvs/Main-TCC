@@ -3,9 +3,8 @@ use SPSUBMERSO;
 
 create table tbusuarios(
 
-idcliente int primary key auto_increment,
-nomeuser varchar(40),
 emailuser varchar(120) primary key,
+nomeuser varchar(40),
 senhauser varchar (40),
 admin int(1)
 
