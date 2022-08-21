@@ -13,9 +13,9 @@
 
 
 <?php
-$rand1 =(string) rand(1,16);
-$rand2 =(string) rand(1,16);
-$rand3 =(string) rand(1,16);
+$rand1 =(string) rand(3,16);
+$rand2 = $rand1 - 1;
+$rand3 = $rand2 - 1;
 
 $image_rand = "curiosidades_imagens/curiosidade".$rand1.".jpg";
 $image_rand2 = "curiosidades_imagens/curiosidade".$rand2.".jpg";
