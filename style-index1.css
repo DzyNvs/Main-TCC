@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkblue;
+}
+
+body{
+    background: linear-gradient(to right, rgb(46, 46, 151), lightblue);
+}
+
+h5{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    color: darkblue;
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+    color: black;
+}
+
+.card{
+  background: linear-gradient(to right, rgb(45, 155, 219), rgb(166, 230, 252));
+  font-family: 'Raleway', sans-serif;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 32px;
+  max-height: 600px;
+  margin-left: 32px;
+  border: 0;
+  box-shadow: 20px 20px 50px -30px rgb(176, 235, 255);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+footer{
+    background: linear-gradient(to right, rgb(46, 46, 151), lightblue);/*F6F9FF*/
+}
+
+.p-carrossel{
+    background-color: lightblue;
+    color: black;
+    font-family: Fredoka One, cursive;
+}
+
+/*
+.card.aquarios{
+    background: linear-gradient(to right, #3E8AFF, #BBDEFF);
+}
+
+.card.aquatico{
+    background: linear-gradient(to right, rgb(91, 240, 215), rgb(170, 252, 221));
+}
+
+.card.piscinas{
+    background: linear-gradient(to right, #FE5F8F, #FFC7D9);
+}
+
+.card.natacao{
+    background: linear-gradient(to right, #9F66FF, #DFCBFF);
+}
+*/
