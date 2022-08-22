@@ -61,8 +61,8 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
           <img width="80" height="250" class="card-img-top" src="img/aquario.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title text-center">Aquários</h5>
-            <p class="card-text text-center">Que tal levar os pequenos para um passeio? 
-                <br><br> Entre peixes, golfinhos e outras criaturas marinhas, visitar um aquário é uma experiência bacana para todas as idades! </p>
+            <p class="card-text text-center">
+                <br>Entre peixes, golfinhos e outras criaturas marinhas, visitar um aquário é uma experiência bacana para todas as idades!<br><br><br> </p>
                 <br>
                 <svg width="40" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M246.6 233.4l-160-160c-12.5-12.5-32.75-12.5-45.25 0s-12.5 32.75 0 45.25L178.8 256l-137.4 137.4c-12.5 12.5-12.5 32.75 0 45.25C47.63 444.9 55.81 448 64 448s16.38-3.125 22.62-9.375l160-160C259.1 266.1 259.1 245.9 246.6 233.4zM438.6 233.4l-160-160c-12.5-12.5-32.75-12.5-45.25 0s-12.5 32.75 0 45.25L370.8 256l-137.4 137.4c-12.5 12.5-12.5 32.75 0 45.25C239.6 444.9 247.8 448 256 448s16.38-3.125 22.62-9.375l160-160C451.1 266.1 451.1 245.9 438.6 233.4z"/></svg>
         </a>
@@ -74,7 +74,7 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
           <img width="80" height="250" class="card-img-top" src="img/parque-aquatico.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title text-center">Parques Aquáticos</h5>
-            <p class="card-text text-center"> <br><br><br> Saiba mais sobre os principais parques aquáticos de São Paulo e organize a sua próxima visita!</p>
+            <p class="card-text text-center"> <br> Saiba mais sobre os principais parques aquáticos de São Paulo e organize a sua próxima visita!<br> <br><br></p>
             <br><br>
                 <svg width="40" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M246.6 233.4l-160-160c-12.5-12.5-32.75-12.5-45.25 0s-12.5 32.75 0 45.25L178.8 256l-137.4 137.4c-12.5 12.5-12.5 32.75 0 45.25C47.63 444.9 55.81 448 64 448s16.38-3.125 22.62-9.375l160-160C259.1 266.1 259.1 245.9 246.6 233.4zM438.6 233.4l-160-160c-12.5-12.5-32.75-12.5-45.25 0s-12.5 32.75 0 45.25L370.8 256l-137.4 137.4c-12.5 12.5-12.5 32.75 0 45.25C239.6 444.9 247.8 448 256 448s16.38-3.125 22.62-9.375l160-160C451.1 266.1 451.1 245.9 438.6 233.4z"/></svg>
         </a>
@@ -99,7 +99,7 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
           <div class="card-body">
             <h5 class="card-title text-center">Piscinas</h5>
             <p class="card-text text-center"> <br> Há dezenas de piscinas espalhadas pela cidade – em algumas delas, basta fazer uma inscrição gratuita e aproveitar o dia de sol.</p>
-            <br><br><br>
+            <br><br>
                 <svg width="40" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M246.6 233.4l-160-160c-12.5-12.5-32.75-12.5-45.25 0s-12.5 32.75 0 45.25L178.8 256l-137.4 137.4c-12.5 12.5-12.5 32.75 0 45.25C47.63 444.9 55.81 448 64 448s16.38-3.125 22.62-9.375l160-160C259.1 266.1 259.1 245.9 246.6 233.4zM438.6 233.4l-160-160c-12.5-12.5-32.75-12.5-45.25 0s-12.5 32.75 0 45.25L370.8 256l-137.4 137.4c-12.5 12.5-12.5 32.75 0 45.25C239.6 444.9 247.8 448 256 448s16.38-3.125 22.62-9.375l160-160C451.1 266.1 451.1 245.9 438.6 233.4z"/></svg>
             </a>
           </div>
