@@ -25,5 +25,3 @@ telefoneuser varchar(40),
 assunto varchar(40),
 mensagem varchar(150)
 );
-
-

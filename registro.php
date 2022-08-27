@@ -7,7 +7,7 @@
   <meta charset="UTF">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/style-login.css">
   
   <script src="./script.js" defer></script>
 
@@ -19,7 +19,7 @@
     <section class="login">
 
       <div class="wrapper">
-        <img src="img/logo.jpg" class="login__logo">
+        <img src="img/logopeixe.png" class="login__logo">
 
         <h1 class="login__title">Registrar</h1>
  <form action ="usuario-salvar.php" method="post">   
