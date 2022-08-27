@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkblue;
+}
+
+body{
+    background: linear-gradient(to right, rgb(46, 46, 151), lightblue);
+}
+
+h5,h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: darkblue;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+.card{
+  background: linear-gradient(to right, rgb(45, 155, 219), rgb(166, 230, 252));
+  font-family: 'Poppins', sans-serif;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 32px;
+  margin-left: 32px;
+  border: 0;
+  box-shadow: 20px 20px 50px -30px rgb(176, 235, 255);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+footer{
+    background: linear-gradient(to right, rgb(46, 46, 151), lightblue);/*F6F9FF*/
+}
+
+.p-carrossel{
+    background-color: lightblue;
+    color: black;
+    font-family: Fredoka One, cursive;
+}
