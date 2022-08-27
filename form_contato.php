@@ -19,7 +19,7 @@
 			<div class="page-header">
 				<center> <h1>ENTRE EM CONTATO COM A GENTE!</h1> </center>
 			</div>
-			<center> <img src="img/contato.jpg"> </center>
+			<center> <img  widht="700" height="700" src="imagens_registro-contato/imagem_contato.jpg"> </center>
 			<div class="textin">
 				<center> <h4>Disponibilizamos nossos canais de contato direto para você enviar suas dúvidas, críticas, sugestões/solicitações ou elogios.</h4> </center>
 			</div>
