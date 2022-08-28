@@ -6,11 +6,8 @@
 
 <head>
   
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&family=Raleway:wght@300;400;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-<link rel="stylesheet" href="css/style-geral.css">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
   <title> SP SUBMERSO </title>
 </head>
@@ -141,19 +138,19 @@ Zona: Zona Rural.
     <div class="modal-dialog" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Wet’n Wild</h5>
+          <h5 class="modal-title" id="exampleModalLabel">Thermas do Vale</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Wet’n Wild2.jpg" alt="Imagem de capa do card">
-          <p>Endereço: Rodovia dos Bandeirantes, s/n – Km 72 – Zona Rural, Itupeva/SP –   <p>
-            CEP: 13295-000  <p>
-Telefone: (11) 4496-8000  <p>
-Site: https://www.wetnwild.com.br/  <p>
-Preço: A partir de R$ 99.  <p>
-Zona: Zona Rural. 
+          <img class="card-img-top" src="img/Thermas do Vale.jpg" alt="Imagem de capa do card">
+          <p>Endereço: Av. Linneu de Moura, 205 – Urbanova, São José dos Campos/SP    <p>
+            CEP: 12244-380 <p>
+Telefone: (12) 2136-8888  <p>
+Site: https://www.thermasdovale.com.br/  <p>
+Preço: A partir de R$ 70.  <p>
+Zona: Fora da Capital de São Paulo.
 </p>
         </div>
         <div class="modal-footer">
@@ -164,7 +161,7 @@ Zona: Zona Rural.
 </div>
           </div>
           <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
+            <small class="text-muted">Atualizados 7 minutos atrás</small>
           </div>
         </div>
 
@@ -183,19 +180,19 @@ Zona: Zona Rural.
     <div class="modal-dialog" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Wet’n Wild</h5>
+          <h5 class="modal-title" id="exampleModalLabel">Magic City</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Wet’n Wild2.jpg" alt="Imagem de capa do card">
-          <p>Endereço: Rodovia dos Bandeirantes, s/n – Km 72 – Zona Rural, Itupeva/SP –   <p>
-            CEP: 13295-000  <p>
-Telefone: (11) 4496-8000  <p>
-Site: https://www.wetnwild.com.br/  <p>
-Preço: A partir de R$ 99.  <p>
-Zona: Zona Rural. 
+          <img class="card-img-top" src="img/Magic City.jpg" alt="Imagem de capa do card">
+          <p>Endereço: Estrada do Pavoeiro, 8.870 – Índio Tibiriçá, Km 58,5 – Suzano/SP  –   <p>
+            CEP: 08635-445  <p>
+Telefone: (11) 4765-5800   <p>
+Site: https://magiccity.com.br/  <p>
+Preço: A partir de R$ 29,90.  <p>
+Zona: Fora da Capital de São Paulo.
 </p>
         </div>
         <div class="modal-footer">
@@ -206,7 +203,7 @@ Zona: Zona Rural.
 </div>
           </div>
           <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
+            <small class="text-muted">Atualizados 12 minutos atrás</small>
           </div>
         </div>
 
@@ -229,18 +226,18 @@ Zona: Zona Rural.
     <div class="modal-dialog" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Thermas dos Laranjais</h5>
+          <h5 class="modal-title" id="exampleModalLabel">Hot Beach</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/therma dos laranjais 2.jpg" alt="Imagem de capa do card">
-          <p>Endereço: Avenida do Folclore, 1543 – Jardim Santa Efigênia, Olímpia/SP – <p>
-CEP: 15405-014  <p>
-Telefone: (17) 3279-3500 <p>
-Site: https://www.termas.com.br/ <p>
-Preço: A partir de R$ 90. <p>
+          <img class="card-img-top" src="img/Hot Beach.jpg" alt="Imagem de capa do card">
+          <p>Endereço: Av. Governador Adhemar Pereira de Barros, 1260 – Olímpia/SP <p>
+CEP: 15406-255 <p>
+Telefone: (17) 3279-1111  <p>
+Site: https://www.hotbeach.com.br/ <p>
+Preço: A partir de R$ 110 <p>
 Zona: Fora da Capital de São Paulo <p>
 </p>
         </div>
@@ -252,7 +249,7 @@ Zona: Fora da Capital de São Paulo <p>
   </div>
           </div>
           <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
+            <small class="text-muted">Atualizados 2 minutos atrás</small>
           </div>
         </div>
 
@@ -260,7 +257,7 @@ Zona: Fora da Capital de São Paulo <p>
           <img class="card-img-top" src="img/Thermas Water Park.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Thermas Water Park</h5>
-            <p class="card-text">Thermas Water Park é um parque aquático gigante que fica a cerca de 180 km de São Paulo. Destaca-se por sua quantidade de piscinas de águas quentes e sua decoração exótica </p>
+            <p class="card-text">Thermas Water Park é um parque aquático gigante que fica a cerca de 180 km de São Paulo. Destaca-se por sua quantidade de piscinas de águas quentes e sua decoração exótica. </p>
          
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo5">
     Veja mais!
@@ -270,19 +267,19 @@ Zona: Fora da Capital de São Paulo <p>
     <div class="modal-dialog" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Wet’n Wild</h5>
+          <h5 class="modal-title" id="exampleModalLabel">Thermas Water Park</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Wet’n Wild2.jpg" alt="Imagem de capa do card">
-          <p>Endereço: Rodovia dos Bandeirantes, s/n – Km 72 – Zona Rural, Itupeva/SP –   <p>
-            CEP: 13295-000  <p>
-Telefone: (11) 4496-8000  <p>
-Site: https://www.wetnwild.com.br/  <p>
-Preço: A partir de R$ 99.  <p>
-Zona: Zona Rural. 
+          <img class="card-img-top" src="img/Thermas Water Park.jpg" alt="Imagem de capa do card">
+          <p>Endereço: Rod. SP 304 – Km 189 – Fazenda Limoeiro, s/nº – São Pedro/SP  <p>
+            CEP: 13520-000  <p>
+Telefone: 4000-2998 <p>
+Site: https://www.thermas.com.br/atracoes  <p>
+Preço: A partir de R$ 59.  <p>
+Zona: Fora da Capital de São Paulo 
 </p>
         </div>
         <div class="modal-footer">
@@ -293,7 +290,7 @@ Zona: Zona Rural.
 </div>
           </div>
           <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
+            <small class="text-muted">Atualizados 21 minutos atrás</small>
           </div>
         </div>
 
@@ -311,19 +308,19 @@ Zona: Zona Rural.
     <div class="modal-dialog" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Wet’n Wild</h5>
+          <h5 class="modal-title" id="exampleModalLabel">Castelo Park Aquático</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Wet’n Wild2.jpg" alt="Imagem de capa do card">
-          <p>Endereço: Rodovia dos Bandeirantes, s/n – Km 72 – Zona Rural, Itupeva/SP –   <p>
-            CEP: 13295-000  <p>
-Telefone: (11) 4496-8000  <p>
-Site: https://www.wetnwild.com.br/  <p>
-Preço: A partir de R$ 99.  <p>
-Zona: Zona Rural. 
+          <img class="card-img-top" src="img/Castelo Park Aquático.jpg" alt="Imagem de capa do card">
+          <p>Endereço: Rodovia SP 143, km 3,5 – Cesário Lange/SP  <p>
+            CEP: 18285-000  <p>
+Telefone: (15) 99703-5711  <p>
+Site: https://casteloparkaquatico.com.br/  <p>
+Preço: A partir de R$ 30.  <p>
+Zona: Fora da Capital de São Paulo
 </p>
         </div>
         <div class="modal-footer">
@@ -334,7 +331,7 @@ Zona: Zona Rural.
 </div>
           </div>
           <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
+            <small class="text-muted">Atualizados 30 minutos atrás</small>
           </div>
         </div>
 
@@ -353,19 +350,19 @@ Zona: Zona Rural.
     <div class="modal-dialog" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Wet’n Wild</h5>
+          <h5 class="modal-title" id="exampleModalLabel">Acqualinda </h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Wet’n Wild2.jpg" alt="Imagem de capa do card">
-          <p>Endereço: Rodovia dos Bandeirantes, s/n – Km 72 – Zona Rural, Itupeva/SP –   <p>
-            CEP: 13295-000  <p>
-Telefone: (11) 4496-8000  <p>
-Site: https://www.wetnwild.com.br/  <p>
+          <img class="card-img-top" src="img/Acqualinda.jpg" alt="Imagem de capa do card">
+          <p>Endereço: Rua Guarani, 859 - Itaguá, Ubatuba - SP   <p>
+            CEP: 11680-000  <p>
+Telefone: (12) 3834-1382  <p>
+Site: https://www.thermasacqualinda.com.br/  <p>
 Preço: A partir de R$ 99.  <p>
-Zona: Zona Rural. 
+Zona: Fora da Capital de São Paulo
 </p>
         </div>
         <div class="modal-footer">
@@ -376,7 +373,7 @@ Zona: Zona Rural.
 </div>
           </div>
           <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
+            <small class="text-muted">Atualizados 10 minutos atrás</small>
           </div>
         </div>
 
@@ -413,7 +410,11 @@ Zona: Zona Rural.
         </div>
       </div>
 
-     
+      <footer style="background-color: #333;" class="p-5">
+          <div class="text-center">
+              <a href=""> © Copyright 2022: SP SUBMERSO™ </a>
+          </div>
+      </footer>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
@@ -428,8 +429,5 @@ Zona: Zona Rural.
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     
   </body>
-  <?php
-include("rodape.php")
 
-?>
 
