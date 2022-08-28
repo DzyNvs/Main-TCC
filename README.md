@@ -7,4 +7,3 @@ Diego Eusebio dos Santos
 Felipe Bonelli Soares de Souza
 Leonardo Alves Rodrigues
 Fabrício Souza da Silva
-ligmaas
