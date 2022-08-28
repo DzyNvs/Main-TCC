@@ -2,6 +2,7 @@
     include("verifica-login.php");
     include("conexao.php");
     include("menu.php");
+   
 ?>
 
 <title> SP SUBMERSO - Página Inicial </title>
@@ -108,7 +109,7 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
       </div>
       <hr>
 
-<footer>
+
       <div class="col-11 m-auto">
       <h2 font-weight="700" color="darkblue" class="h2-footer text-center">QUEM SOMOS?</h2>
           <p class="p-footer text-center">Nós do SP SUBMERSO desenvolvemos esse site com o intuito de inserir mais pessoas no ambiente marinho. Dessa forma o site
@@ -117,8 +118,10 @@ aquáticos e pontos turísticos que envolvam água em geral. Visamos atender pri
 inscrever em clubes de natação, turistas que querem visitar aquários para conhecer um
 pouco mais da fauna nacional, além de pais que desejam levar seus filhos para visitar
 parques aquáticos ou inscrevê-los em clubes de natação para se exercitarem.</p>
+
+
       </div>
-</footer>
+
 <script type="text/javascript" src="vanilla-tilt.js"></script>
 <script type="text/javascript">
 	VanillaTilt.init(document.querySelectorAll(".card"), {
@@ -127,3 +130,8 @@ parques aquáticos ou inscrevê-los em clubes de natação para se exercitarem.<
 	});
       </script>
 </body>
+
+<?php
+include("rodape.php")
+
+?>

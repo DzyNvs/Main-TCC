@@ -9,7 +9,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link href="css/bootstrap.min.css" rel="stylesheet">
-		<link href="style-contato.css" rel="stylesheet">
+		<link href="css/style-contato.css" rel="stylesheet">
 		<!-- CSS only -->
 		
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -105,4 +105,9 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 	</body>
+	<?php
+include("rodape.php")
+
+?>
+
 </html>
