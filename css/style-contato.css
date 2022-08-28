@@ -7,7 +7,6 @@
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: oblique;
-    color: #193b5f;
 }
 
 
@@ -88,6 +87,8 @@ h4{
     margin-top: 25px;
     margin-bottom: 25px;
     color: #193b5f;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
 .butao{ 
