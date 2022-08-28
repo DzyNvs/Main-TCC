@@ -29,12 +29,14 @@ footer{
 }
 .footer-col h4{
     font-size: 2rem;
-    color: darkblue;
+    color: rgb(57, 247, 231);
     margin-bottom: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 500;
     position: relative;
     text-transform: uppercase;
+    -webkit-text-stroke: 1px rgb(230, 228, 228);
+    font-family: 'Poppins'; color: rgb(9, 243, 223);
 }
 .footer-col ul{
     list-style: none;
@@ -45,7 +47,7 @@ footer{
 .footer-col ul li a{
     font-size: 16px;
     text-transform: capitalize;
-    color: darkblue;
+    color:#f6f9ff;
     text-decoration: none;
     font-weight: 300;
     display: block;

@@ -9,7 +9,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link href="css/bootstrap.min.css" rel="stylesheet">
-		<link href="css/style-contato.css" rel="stylesheet">
+
 		<!-- CSS only -->
 		
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,9 +21,10 @@
 		</script>
 	<head>
 	<body>
+		<div class 
 		<div class="container theme-showcase" role="main">
 			<div class="page-header">
-				<center> <h1>ENTRE EM CONTATO COM A GENTE!</h1> </center>
+				<center> <h1 class="titulo">ENTRE EM CONTATO COM A GENTE!</h1> </center>
 			</div>
 			<center> <img  widht="700" height="700" src="imagens_registro-contato/imagem_contato3.jpg"> </center>
 			<div class="textin">
