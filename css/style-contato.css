@@ -1,4 +1,6 @@
+
 .form-horizontal{
+    
     width:60%;
     position:relative;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -13,8 +15,8 @@ h1{
 
 .icone1{
     color:#007bff;
-    margin-top:-80px;
-    margin-left:-50px;
+    margin-top:-90px;
+    margin-left:-70px;
     position:absolute;
 }
 
@@ -44,7 +46,7 @@ h1{
 .telefone1{
     float:right;
     margin-top:-70px;
-    margin-right:-342px;
+    margin-right:42px;
     position:relative;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: lightblue;
