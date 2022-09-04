@@ -38,7 +38,7 @@
                 <div class="footer-col">
                     <h4>Contato</h4>
                     <ul>
-                     <li><a href="form_contato.php">Nos contate!</a></li>
+                     <li><a href="form_contato.php">Contate-nos!</a></li>
                        
                     </ul>
                 </div>
