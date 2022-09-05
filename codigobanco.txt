@@ -22,7 +22,7 @@ site varchar(40)
 create table formContato(
 idcontato int primary key auto_increment,
 nome varchar(60),
-e-mailuser varchar(40),
+emailuser varchar(40),
 assunto varchar(40),
 mensagem varchar(150)
 );
