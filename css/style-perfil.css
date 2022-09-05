@@ -19,7 +19,7 @@ body{
     font-size: 26px;
 }
 .sidebar{
-    background-color: #333;
+    background-color: hsl(212, 92%, 53%);
     color: whitesmoke;
     height: 100%;    
 }
@@ -37,5 +37,7 @@ body{
     flex-direction: column;
 }
 .content{
+    position: relative;
+    top: 55px;
     background-color: whitesmoke;
 }
