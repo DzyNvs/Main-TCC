@@ -17,13 +17,29 @@
 <body>
 	<br>
 	<br>
+	<center>
+	<h4 class="aviso">
+	<?php
+          if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "suamensagemfoienviada") { 
+			echo "Sua mensagem foi enviada!"; }}
+			
+  	?>  
+	</h4>	
+	<h4 class="aviso">
+	<?php
+          if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "houveumerro") { 
+			echo "Devido a um erro, sua mensagem não foi enviada!"; }}
+			
+  	?>  
+	</h4>
+</center>
 	<br>
 	<br>
 <center>
 <section>
         <img width ="300" src="img/imagem_contato_semfundo.png">
 		<div class="container">
-		<form action="#" method="post">
+		<form action="contato-salvar.php" method="post">
             <label>Nome</label>
             <input type="text" name="name" placeholder="Digite seu nome" autocomplete="off" required>
             <label>Email</label>
@@ -34,8 +50,7 @@
             <textarea name="message" cols="30" rows="10" placeholder="Digite sua mensagem" required></textarea>
             <button type="submit">Enviar</button>
 
-            <input type="hidden" name="accessKey" value="042be0d3-84fa-4ae8-aaed-2434cda72cac">
-            <input type="hidden" name="redirectTo" value="http://127.0.0.1:5501/obrigado.html">
+            
         </form>
 </div>
     </section>
