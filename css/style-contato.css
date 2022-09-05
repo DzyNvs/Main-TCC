@@ -5,6 +5,7 @@
     font-family: sans-serif;
 }
 body{
+    overflow-x: hidden;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
@@ -20,6 +21,7 @@ body{
 }
 
 section{
+    overflow-x: hidden;
     padding-top: 150px;
     display: flex;
     align-items: center;
@@ -36,6 +38,7 @@ section h2{
     margin: 2rem;
 }
 section form{
+    overflow-x: hidden;
     display: flex;
     flex-direction: column;
     width: 100%;
