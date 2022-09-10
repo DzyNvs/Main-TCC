@@ -21,7 +21,8 @@ site varchar(40)
 
 create table formContato(
 idcontato int primary key auto_increment,
-telefoneuser varchar(40),
+nome varchar(60),
+emailuser varchar(120),
 assunto varchar(40),
 mensagem varchar(150)
 );
