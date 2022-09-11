@@ -47,14 +47,16 @@
         </a>
       </div>
       <hr>
-      <h2 class="text-center"> Clubes de Natação e Lazer </h2>
+      <h2 class="text-center"> CLUBES DE NATAÇÃO E LAZER </h2>
       <p> 
       <div id="chapeus" class="card-deck row row-cols-1 row-cols-md-3 g-4 col-11 m-auto">
         <div class="card">
-          <img class="card-img-top" src="img/clubebosque.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubebosque.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube do Bosque</h5>
-            <p class="card-text"> O Clube Esperia é um dos mais completos e conceituados clubes brasileiros. Além de contribuir com a formação de atletas, o Esperia é também um importante polo de cultura, esporte e lazer da cidade de São Paulo.</p>
+            <br>
+            <p class="card-text"> Um dos mais completos e conceituados clubes brasileiros. Além de contribuir com a formação de atletas, é também um importante polo de cultura, esporte e lazer da cidade de São Paulo.</p>
+            <br>
         
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo">
     Veja mais!
@@ -84,16 +86,15 @@ Zona: Sul <p>
     </div>
   </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         <div class="card">
-          <img class="card-img-top" src="img/clubehelvetia.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubehelvetia.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Esportivo Helvetia</h5>
-            <p class="card-text">No Clube Esportivo Helvetia, você terá momentos inesquecíveis para suas festas e eventos. São diversos espaços para locação que acomodam eventos sociais e corporativos com estrutura e segurança locamos quadras para práticas esportivas, churrasqueira para encontro com os amigos, auditório, teatro e espaços para palestras e reuniões corporativas, além do nosso salão principal Maison Helvetia que acomoda até 200 pessoas e conta com todo o charme da arquitetura Suissa. </p>
+            <br>
+            <p class="card-text">O Clube Esportivo Helvetia possui diversos espaços para locação que acomodam eventos sociais e corporativos com estrutura e segurança. </p>
+            <br><br>
          
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo2">
     Veja mais!
@@ -125,17 +126,16 @@ Zona: Sul
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
         <div class="card">
-          <img class="card-img-top" src="img/clubeesperia.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubeesperia.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Esperia</h5>
+            <br><br>
             <p class="card-text">Esperia é um importante polo de cultura, esporte e lazer da cidade de São Paulo, com mais de 80.000 m² e acesso livre a diversas modalidades.</p>
+            <br><br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo3">
     Veja mais!
   </button>
@@ -154,7 +154,7 @@ Zona: Sul
           <p>Endereço: Av. Santos Dumont, 1313 - Santana, São Paulo - SP   <p>
             CEP: 02012-010  <p>
 Telefone: (11) 2223-3300  <p>
-Site: https://www.instagram.com/clubeesperiaoficial/  <p>
+Site: www.instagram.com/clubeesperiaoficial  <p>
 Zona: Norte. 
 </p>
         </div>
@@ -165,18 +165,17 @@ Zona: Norte.
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
 
         <div class="card">
-          <img class="card-img-top" src="img/clubeescolamooca.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubeescolamooca.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Escola da Mooca </h5>
-            <p class="card-text">O Clube Escola Mooca conta com diversas modalidades diferentes de esportes e muito lazer, piscina semiolímpica, campo de futebol, ginásio poliesportivo, quadras externas, salão de judô, espaço para ginástica olímpica, musculação, brinquedoteca, local para a prática de capoeira, numa ampla área arborizada. </p>
+            <br><br>
+            <p class="card-text">O Clube Escola Mooca conta com diversas modalidades diferentes de esportes e muito lazer. </p>
+            <br><br><br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo4">
     Veja mais!
   </button>
@@ -206,19 +205,14 @@ Zona: Zona Leste
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
-        </div>
-
-        
+        </div>   
       </div>
 
 
       <p> 
       <div id="chapeus" class="card-deck row row-cols-1 row-cols-md-3 g-4 col-11 m-auto">
         <div class="card">
-          <img class="card-img-top" src="img/clubesirio.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubesirio.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Esporte Clube Sírio</h5>
             <p class="card-text"> Com milhares de associados e profundamente integrado à vida paulistana, o Esporte Clube Sírio faz parte da elite dos clubes socioculturais e esportivos de São Paulo, oferecendo o que há de mais moderno em matéria de lazer, cultura e esporte para todas as idades e, ao mesmo tempo, cultuando a preservação das tradições, dos costumes e da hospitalidade árabe no Brasil.</p>
@@ -251,13 +245,11 @@ Zona: Sul <p>
     </div>
   </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
+
         <div class="card">
-          <img class="card-img-top" src="img/clubeypiranga.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubeypiranga.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Atlético Ypiranga</h5>
             <p class="card-text">Com amplas opções esportivas e de lazer além de uma longa trajetória, o Clube Atlético Ypiranga pode se orgulhar de ser grande referência esportiva e social na cidade de São Paulo. </p>
@@ -280,7 +272,7 @@ Zona: Sul <p>
           <p>Endereço: R. do Manifesto, 475 - Ipiranga, São Paulo - SP   <p>
             CEP: 04209-000  <p>
 Telefone: (11) 3386-3386  <p>
-Site: https://www.instagram.com/c.a.ypiranga/  <p>
+Site: www.instagram.com/c.a.ypiranga  <p>
 Zona: Zona Sul
 </p>
         </div>
@@ -291,14 +283,11 @@ Zona: Zona Sul
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
         <div class="card">
-          <img class="card-img-top" src="img/cluberuve.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/cluberuve.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">R.U.V.E. Recreativo União Vila Esperança </h5>
             <p class="card-text">O RUVE sendo uma associação sem fins lucrativos oferece com custos acessíveis infraestrutura de um clube muito bem estruturado. Com quadra poliesportiva, salão social, piscina coberta, piscina descoberta semiolímpica, salas de ginástica, além de professores altamente qualificados. </p>
@@ -331,15 +320,12 @@ Zona: Leste
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
 
         <div class="card">
-          <img class="card-img-top" src="img/clubebutanta.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubebutanta.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title"> Centro Educacional Esportivo do Butantã </h5>
             <p class="card-text"> Localizado na zona oeste de São Paulo, o local possui 2 campos de futebol, piscinas e quadras poliesportivas. </p>
@@ -372,16 +358,13 @@ Zona: Oeste
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
       </div>
 <p>
       <div id="chapeus" class="card-deck row row-cols-1 row-cols-md-3 g-4 col-11 m-auto">
         <div class="card">
-          <img class="card-img-top" src="img/clubepaulista.jpeg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubepaulista.jpeg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Tênis Clube Paulista</h5>
             <p class="card-text">Local de lazer e entretenimento seguro, proporcionando ótima qualidade de vida aos associados. Contém dezenas de modalidades esportivas, academia gratuita aos associados, cursos de dança, shows, festas, atividades físicas, eventos, saunas, berçário, salas de jogos, brinquedoteca com monitores, piscinas aquecidas, lanchonetes e restaurantes. </p>
@@ -414,13 +397,10 @@ Zona: Sul <p>
     </div>
   </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         <div class="card">
-          <img class="card-img-top" src="img/clubeacre.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubeacre.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Acre</h5>
             <p class="card-text">O Acre Clube é um dos mais tradicionais clubes de lazer, cultura e esportes de São Paulo. Com infraestrutura completa para atividades sociais, de lazer e saúde, o clube ainda organiza campeonatos das mais variadas modalidades esportivas, festas, shows, cursos, exposições de arte e até apresentação de peças de teatro. </p>
@@ -455,14 +435,11 @@ Zona: Norte
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
         <div class="card">
-          <img class="card-img-top" src="img/clubeescolasp.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubeescolasp.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Escola Jardim SP</h5>
             <p class="card-text">Centro que oferece atividades esportivas gratuitas de esporte e lazer. Possuindo uma área de 58.725 metros quadrados que conta com piscina, campo de futebol, quadras poliesportivas, quadra de tênis, playground e aparelhos para terceira idade.</p>
@@ -484,7 +461,7 @@ Zona: Norte
           <p>Endereço: R. Viri, 425 - Jardim São Paulo, São Paulo - SP   <p>
             CEP: 02046-030 <p>
 Telefone: (11) 2973-5390  <p>
-Site:www.sites.google.com/site/clubeescolajsp/novidades  <p>
+Site: www.sites.google.com/site/clubeescolajsp/novidades  <p>
 Zona: Norte. 
 </p>
         </div>
@@ -495,15 +472,12 @@ Zona: Norte.
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
 
         <div class="card">
-          <img class="card-img-top" src="img/clubeatleticomooca.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubeatleticomooca.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Atlético Parque da Mooca  </h5>
             <p class="card-text">O espaço esportivo possui um ginásio com quadra para futsal, vôlei e handebol, quadra de futebol Society e piscina </p>
@@ -525,7 +499,7 @@ Zona: Norte.
           <p>Endereço: R. Padre Raposo, 837 - Alto da Mooca, São Paulo - SP   <p>
             CEP: 03118-001 <p>
 Telefone: (11) 2076-3620  <p>
-Site:www.jogaojogo.com.br/quadra/c-a-parque-da-mooca  <p>
+Site: www.jogaojogo.com.br/quadra/c-a-parque-da-mooca  <p>
 Zona: Zona Leste
 </p>
         </div>
@@ -536,9 +510,6 @@ Zona: Zona Leste
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
@@ -546,7 +517,7 @@ Zona: Zona Leste
 <p>
       <div id="chapeus" class="card-deck row row-cols-1 row-cols-md-3 g-4 col-11 m-auto">
         <div class="card">
-          <img class="card-img-top" src="img/clubeassociacao.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubeassociacao.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Associação Atlética São Paulo</h5>
             <p class="card-text">Contendo uma imensa área verde a Atlética nos concede atividades diversas e áreas de lazer para relaxar. Ginásio poliesportivo, parque aquático e sauna são alguns exemplos. </p>
@@ -579,13 +550,11 @@ Zona: Centro <p>
     </div>
   </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
+
         <div class="card">
-          <img class="card-img-top" src="img/clubeindiano.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubeindiano.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Atlético Indiano</h5>
             <p class="card-text">O Clube Atlético Indiano oferece tendencias inovadoras de lazer, esporte e diversão, ampla estrutura, estacionamento e atividade para toda a família. Tudo isso as margens da Represa Guarapiranga em uma área verde sem igual e privilegiada na cidade de São Paulo. </p>
@@ -608,7 +577,7 @@ Zona: Centro <p>
           <p>Endereço: Av. Francisco Nóbrega Barbosa, 411 - Parque Alves de Lima, São Paulo - SP <p>
             CEP: 04902-000  <p>
 Telefone: (11) 5890-3666 <p>
-Site:www.indiano.com.br  <p>
+Site: www.indiano.com.br  <p>
 
 Zona: Sul
 </p>
@@ -620,14 +589,11 @@ Zona: Sul
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
         <div class="card">
-          <img class="card-img-top" src="img/clubemesc.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubemesc.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube MESC</h5>
             <p class="card-text">Com 63 anos de história, o Clube MESC conta com diversas atividades e eventos. </p>
@@ -649,7 +615,7 @@ Zona: Sul
           <p>Endereço: : Av. Robert Kennedy, 2113 - Jardim Beatriz, São Bernardo do Campo - SP   <p>
             CEP: 09895-0050 <p>
 Telefone: (11) 4344-5566  <p>
-Site:www.clubemesc.com.br  <p>
+Site: www.clubemesc.com.br  <p>
 Zona: Sudeste
 </p>
         </div>
@@ -660,15 +626,12 @@ Zona: Sudeste
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
 
         <div class="card">
-          <img class="card-img-top" src="img/clubeCE.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/clubeCE.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">C.E. Rubens Pecce Lordello  </h5>
             <p class="card-text">O C.E. Rubens Pecce Lordello é uma entidade Municipal com atividades esportivas gratuitas e lazer garantido para a população.</p>
@@ -690,7 +653,7 @@ Zona: Sudeste
           <p>Endereço:Av. Lins de Vasconcelos, 804 - Cambuci, São Paulo - SP    <p>
             CEP: 01515-000 <p>
 Telefone: (11) 3209-0995  <p>
-Site:https://www.prefeitura.sp.gov.br/cidade/secretarias/esportes/clube_escola/index.php?p=44153  <p>
+Site: www.prefeitura.sp.gov.br/cidade/secretarias/esportes/clube_escola/index.php?p=44153  <p>
 Zona: Centro
 </p>
         </div>
@@ -701,36 +664,15 @@ Zona: Centro
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
 
       <p> 
 
+      </div> 
       </div>
-
-
-        
-      </div>
-
-
- 
-
       </div>
       <hr>
-
-      <div class="col-11 m-auto">
-        <h2 id="contato" class="text-center">Contato</h2>
-        <div class="m-auto" style="width: 150px;">
-            <a href="http://">
-                <i class="fa-brands fa-whatsapp" style="font-size: 150px; color: green;"></i>
-            </a>
-        </div>
-      </div>
-
-     
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

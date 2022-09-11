@@ -47,14 +47,16 @@
         </a>
       </div>
       <hr>
-      <h2 class="text-center"> Piscinas e Clubes </h2>
+      <h2 class="text-center"> PISCINAS E CLUBES </h2>
       <p> 
       <div id="chapeus" class="card-deck row row-cols-1 row-cols-md-3 g-4 col-11 m-auto">
         <div class="card">
-          <img class="card-img-top" src="img/Ceret.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/Ceret.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Piscina do Ceret</h5>
-            <p class="card-text"> Piscina pública em São Paulo</p>
+            <p class="card-text"> Conta com uma das maiores piscinas pública de São Paulo, com 100 metros de comprimento e 50 de largura.
+
+Você também pode levar as crianças menores, existem duas piscinas para crianças normalmente de idade abaixo dos 3 anos onde as mães e pais podem curtir com os pequenos com toda a segurança.</p>
         
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo">
     Veja mais!
@@ -84,16 +86,13 @@ Zona: Leste <p>
     </div>
   </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         <div class="card">
-          <img class="card-img-top" src="img/SescItaquera.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/SescItaquera.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Piscinas – Sesc Itaquera</h5>
-            <p class="card-text">Piscina em São Paulo – Há piscina em quase todas as unidades do Sesc, com exceção do Parque Dom Pedro II e Florêncio de Abreu. </p>
+            <p class="card-text"> O local conta com 34 terminais de internet livre, cafeteria, lanchonetes, espaço de leitura, estacionamento com 1.060 vagas, ginásio poliesportivo, parque aquático, campo de futebol, loja Sesc, salas multiuso, centro ambiental e auditório com capacidade para receber 120 pessoas. Há piscina em quase todas as unidades do Sesc, com exceção do Parque Dom Pedro II e Florêncio de Abreu. </p>
          
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo1">
     Veja mais!
@@ -124,14 +123,11 @@ Zona: Leste
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
         <div class="card">
-          <img class="card-img-top" src="img/Ceret2.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/Ceret2.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Recreativo CERET</h5>
             <p class="card-text">Clube recreativo em São Paulo – O Centro Esportivo, Recreativo e Educativo do Trabalhador (CERET) é um grande local onde se elabora programações recreativas, educacionais, culturais, sociais, esportivas, cívicas e correlatas, localizado na Cidade de São Paulo, no bairro Jardim Anália Franco, distrito de Vila Formosa.</p>
@@ -153,7 +149,7 @@ Zona: Leste
           <p>Endereço: R. Canuto Abreu, s/n - Jardim Analia Franco, São Paulo - SP  <p>
             CEP: 03336-060 <p>
 Telefone: (11) 2672-1240 <p>
-Site:www.ceret.com.br  <p>
+Site: www.ceret.com.br  <p>
 Zona: Leste.
 </p>
         </div>
@@ -164,15 +160,12 @@ Zona: Leste.
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
 
         <div class="card">
-          <img class="card-img-top" src="img/Trindade.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/Trindade.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">CE Jd. São Paulo - CEE Alfredo Ignácio Trindade </h5>
             <p class="card-text">Clube em São Paulo – O Clube Escola Jardim São Paulo é um complexo de lazer e educacional localizado na rua Viri, no Jardim São Paulo, bairro da zona norte paulistana ao lado do Parque Domingos Luís. É administrado pela Prefeitura de São Paulo.</p>
@@ -205,9 +198,6 @@ Zona: Norte.
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
@@ -217,7 +207,7 @@ Zona: Norte.
       <p> 
       <div id="chapeus" class="card-deck row row-cols-1 row-cols-md-3 g-4 col-11 m-auto">
         <div class="card">
-          <img class="card-img-top" src="img/Pacaembu.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/Pacaembu.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Complexo Esportivo do Pacaembu</h5>
             <p class="card-text"> Ginásio poliesportivo em São Paulo – Se engana quem pensa que o Pacaembu é só futebol. Além de um complexo esportivo, o estádio tem uma piscina aquecida que foi reformada no ano passado. Nos finais de semana, os frequentadores estendem as cangas e toalhas na arquibancada para tomar sol. A inscrição, antes restrita aos moradores do entorno, agora pode ser feita gratuitamente por qualquer pessoa, de segunda a sexta, das 8h às 17h. É necessário levar uma cópia do RG, comprovante de residência e uma foto 2×2. A piscina fica aberta de terça a domingo até às 17h e os associados também têm acesso à quadra de futsal, sala de ginástica e de musculação.</p>
@@ -250,13 +240,10 @@ Zona: Centro. <p>
     </div>
   </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         <div class="card">
-          <img class="card-img-top" src="img/24Maio.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/24Maio.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Sesc 24 de Maio</h5>
             <p class="card-text">Centro cultural em São Paulo – Inaugurada em agosto de 2017, esta unidade do Sesc possui uma piscina com vista panorâmica para a cidade construída no topo do prédio principal. O espaço fica aberto de terça a domingo das 9h às 20h30, exceto no domingo, que funciona até às 17h30. Para se credenciar à rede Sesc, no entanto, é necessário ser comerciário, o que significa trabalhar na área do comércio de bens, serviços e turismo. Além do documento e da carteira de trabalho, também é exigido um exame dermatológico (R$ 10). </p>
@@ -290,14 +277,11 @@ Zona: Centro.
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
         <div class="card">
-          <img class="card-img-top" src="img/IbirapueraDes.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/IbirapueraDes.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Esportivo Municipal Ibirapuera</h5>
             <p class="card-text">A poucos quarteirões do Parque do Ibirapuera, duas piscinas, uma semiolímpica e outra infantil, ficam abertas de terça a domingo até às 17h. Para fazer a carteirinha não precisa pagar nada. Basta levar RG, comprovante de residência, duas fotos 3×4 e fazer o exame médico. Além do centro esportivo do Ibirapuera, a Secretaria Municipal de Esportes e Lazer mantém outros 33 clubes espalhados pela cidade, que costumam funcionar de setembro a maio. </p>
@@ -318,7 +302,7 @@ Zona: Centro.
           <img class="card-img-top" src="img/IbirapueraDes.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rua Pedro de Toledo, 1591 - Vila Clementino, São Paulo – SP  <p>
             CEP: 04039-034  <p>
-Telefone:(11) 5574-5045  <p>
+Telefone: (11) 5574-5045  <p>
 Site: parqueibirapuera.org <p>
 Zona: Sul.
 </p>
@@ -330,23 +314,13 @@ Zona: Sul.
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
 
       <p> 
 
       </div>
-
-
-        
       </div>
-
-
- 
-
       </div>
       <hr>
 

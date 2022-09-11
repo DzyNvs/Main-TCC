@@ -49,15 +49,16 @@
         </a>
       </div>
       <hr>
-      <h2 class="text-center"> Aquários </h2>
+      <h2 class="text-center"> AQUÁRIOS </h2>
       <p> 
       <div id="chapeus" class="card-deck row row-cols-1 row-cols-md-3 g-4 col-11 m-auto">
         <div class="card">
-          <img class="card-img-top" src="img/AquarioSP.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/AquarioSP.jpg" alt="Imagem de capa do card">
           <div class="card-body">
-            <h5 class="card-title">Aquário de São Paulo</h5>
-            <p class="card-text"> O Aquário fica localizado no bairro do Ipiranga. Considerado uma referência em tratamento e exposição de animais, foi inaugurado em 2006. É o único aquário temático do Brasil e apresenta aproximadamente 3 mil exemplares de cerca de 300 espécies de animais.</p>
-        
+            <h5 class="card-title">Aquário de São Paulo</h5> 
+            <br>
+            <p class="card-text"> É o único aquário temático do Brasil e apresenta aproximadamente 3 mil exemplares de cerca de 300 espécies de animais. Fica localizado no bairro do Ipiranga.</p>
+            <br>
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo">
     Veja mais!
   </button>
@@ -86,17 +87,15 @@ Zona: Sul. <p>
     </div>
   </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         <div class="card">
-          <img class="card-img-top" src="img/AquarioSantos.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/AquarioSantos.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Aquário Municipal de Santos </h5>
-            <p class="card-text">Famoso por sua grande variedade de espécies o Aquário Municipal de Santos vai te deixar de boca aberta! </p>
-         
+            <br>
+            <p class="card-text">Famoso por sua grande variedade de espécies, o Aquário Municipal de Santos vai te deixar de boca aberta! </p>
+            <br><br>
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo1">
     Veja mais!
   </button>
@@ -126,17 +125,16 @@ Zona: Fora da Capital de São Paulo.
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
         <div class="card">
-          <img class="card-img-top" src="img/AcquaMundo.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/AcquaMundo.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Acqua Mundo </h5>
+            <br><br>
             <p class="card-text">Localizado no Guarujá, também proporciona experiências incríveis! Ele é o maior aquário da América do Sul.</p>
+            <br><br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo2">
     Veja mais!
   </button>
@@ -166,18 +164,17 @@ Zona: Fora da Capital de São Paulo.
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
 
         <div class="card">
-          <img class="card-img-top" src="img/AquarioPiracicaba.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/AquarioPiracicaba.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Aquário Municipal de Piracicaba </h5>
-            <p class="card-text">Inaugurado em setembro de 2012, o aquário está instalado no Parque Mirante às margens do rio Piracicaba e é mais uma opção turística para levar as crianças.</p>
+            <br>
+            <p class="card-text">Inaugurado em setembro de 2012, está instalado no Parque Mirante às margens do rio Piracicaba e é mais uma opção turística para levar as crianças.</p>
+            <br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo3">
     Veja mais!
   </button>
@@ -207,9 +204,6 @@ Zona: Fora da Capital de São Paulo.
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
@@ -219,10 +213,12 @@ Zona: Fora da Capital de São Paulo.
       <p> 
       <div id="chapeus" class="card-deck row row-cols-1 row-cols-md-3 g-4 col-11 m-auto">
         <div class="card">
-          <img class="card-img-top" src="img/Ubatuba.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/Ubatuba.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Projeto Tamar – Ubatuba</h5>
-            <p class="card-text"> Inaugurada em 1991, a base da Fundação Projeto Tamar de Ubatuba foi a primeira instalada em uma área de alimentação das tartarugas marinhas no litoral brasileiro, tendo como principal objetivo mitigar os efeitos predatórios da pesca sobre esses animais. É a única base no Estado e está localizada na área central da cidade.</p>
+            <br>
+            <p class="card-text"> Inaugurada em 1991, a base da Fundação Projeto Tamar de Ubatuba tem como principal objetivo mitigar os efeitos predatórios da pesca sobre as tartarugas. </p>
+            <br>
         
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo4">
     Veja mais!
@@ -252,16 +248,16 @@ Zona: Fora da Capital de São Paulo. <p>
     </div>
   </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
+
         <div class="card">
-          <img class="card-img-top" src="img/AquarioUbatuba.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/AquarioUbatuba.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Aquário de Ubatuba </h5>
+            <br><br><br>
             <p class="card-text">Aquário com várias espécies locais, um tanque aberto, pássaros e répteis. </p>
+            <br><br>
          
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo5">
     Veja mais!
@@ -292,17 +288,16 @@ Zona: Fora da Capital de São Paulo.
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
 
         
         <div class="card">
-          <img class="card-img-top" src="img/AquarioAparecida.jpg" alt="Imagem de capa do card">
+          <img width="80" height="250" class="card-img-top" src="img/AquarioAparecida.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Aquário de Aparecida</h5>
-            <p class="card-text">O Aquário de Aparecida é um atrativo para toda família. O colorido das dezenas de espécies encanta os visitantes que podem apreciar diversos tanques com espécies marinhas, peixes de água doce e uma piscina de tubarões.</p>
+            <br>
+            <p class="card-text"> O colorido das dezenas de espécies encanta os visitantes que podem apreciar diversos tanques com espécies marinhas, peixes de água doce e uma piscina de tubarões.</p>
+            <br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo6">
     Veja mais!
   </button>
@@ -332,22 +327,13 @@ Zona: Fora da Capital de São Paulo.
           </div>
 </div>
           </div>
-          <div class="card-footer">
-            <small class="text-muted">Atualizados 3 minutos atrás</small>
-          </div>
         </div>
-
 
       <p> 
 
       </div>
-
-
-        
+    
       </div>
-
-
- 
 
       </div>
       <hr>
@@ -366,8 +352,15 @@ Zona: Fora da Capital de São Paulo.
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-   
+<!--  
+    <script type="text/javascript" src="vanilla-tilt.js"></script>
+    <script type="text/javascript">
+	    VanillaTilt.init(document.querySelectorAll(".card"), {
+		   max: 25,
+		   speed: 400
+	});
+      </script>
+--> 
   </body>
   <?php
 include("rodape.php")

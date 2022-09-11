@@ -56,3 +56,10 @@ a:hover{
     font-family: Fredoka One, cursive;
 }
 
+p.card-text{
+    text-align: center;
+}
+
+h5.card-title{
+    text-align: center;
+}
