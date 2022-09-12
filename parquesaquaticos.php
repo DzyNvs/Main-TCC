@@ -1,5 +1,5 @@
 <?php 
-    include("verifica-login.php");
+  
     include("conexao.php");
     include("menu.php");
 ?>

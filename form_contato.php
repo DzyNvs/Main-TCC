@@ -1,4 +1,6 @@
-<?php include("menu.php");
+<?php 
+include("verifica-login.php");
+include("menu.php");
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">

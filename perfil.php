@@ -1,6 +1,7 @@
 <?php
+    include("verifica-login.php");  
     include("menu.php");
-
+    include("conexao.php");
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -25,7 +26,15 @@
                         <div class="card-body">
                             <img src="./img/avatar.png" class="rounded-circle" width="150">
                             <div class="mt-3">
-                                <h3>Nome de Usuario</h3>
+                                <br>
+                                <br>
+                                <h3>
+                                <?php
+                                if(isset($_SESSION['nomebanco'])) {
+                                echo $_SESSION["nomebanco"];
+                                 }
+                                ?>
+                                </h3>
                                 <a href="">Alterar email</a>
                                 <a href="">Alterar senha</a>
                                 <a href =""> Favoritos</a>
@@ -41,22 +50,41 @@
             <div class="card-body">
                 <div class="row">
                     <div class="col-md-3">
-                        <h5>Nome completo</h5>
+                        <h5>Nome:</h5>
                     </div>
                     <div class="col-md-9 text-secondary">
-                        Nome de Usuario <br>
+                    <?php
+                                if(isset($_SESSION['nomebanco'])) {
+                                echo $_SESSION["nomebanco"];
+                                 }
+                                ?> <br>
                         <a href="">Alterar nome de usuario</a>
                     </div>
                 </div>
                 <hr>
                 <div class="row">
                     <div class="col-md-3">
-                        <h5>Email</h5>
+                        <h5>E-mail:</h5>
                     </div>
                     <div class="col-md-9 text-secondary">
-                        abc@gmail.com
+                    <?php
+                                if(isset($_SESSION['emailbanco'])) {
+                                echo $_SESSION["emailbanco"];
+                                 }
+                                ?>
                         <br>
                         <a href="">Alterar e-mail de usuario</a>
+                    </div>
+                    </div>
+                                 <hr>
+                    <div class="row">
+                    <div class="col-md-3">
+                        <h5>Senha:</h5>
+                    </div>
+                    <div class="col-md-9 text-secondary">
+                    ********
+                        <br>
+                        <a href="">Alterar senha do Usuário</a>
                     </div>
                     </div>
                     <br>
