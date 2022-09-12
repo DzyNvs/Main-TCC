@@ -49,11 +49,11 @@
         Perfil
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="perfil.php"> Ver informações do Usuário </a>
           <a class="dropdown-item" href="perfil.php"> Alterar e-mail </a>
-          <a class="dropdown-item" href="perfil.php"> Alterar senha </a>
-        <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="perfil.php"> Alterar senha </a>      
           <a class="dropdown-item" href="perfil.php"> Favoritos </a>
-          <a class="dropdown-item" href="perfil.php"> Logout </a>
+          <a class="dropdown-item" href="logout.php"> Logout </a>
         </div>
       </li>
     </ul>
