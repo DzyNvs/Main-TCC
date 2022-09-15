@@ -24,7 +24,7 @@
                 <div class="col-md-4 mt-1">
                     <div class="card text-center sidebar">
                         <div class="card-body">
-                           
+                            
                             <div class="mt-3">
                                 <br>
                                 <br>
@@ -45,47 +45,46 @@
                 </div>
     <div class="col-md-8 mt-1">
         <div class="card mb-3 content">
-            <h1 class="m-3 pt-3">Conta</h1>
+            <h1 class="m-3 pt-3">Alterar Nome do Usuário</h1>
             <div class="card-body">
                 <div class="row">
-                    <div class="col-md-3">
-                        <h5>Nome:</h5>
-                    </div>
-                    <div class="col-md-9 text-secondary">
-                    <?php
-                                if(isset($_SESSION['nomebanco'])) {
-                                echo $_SESSION["nomebanco"];
-                                 }
-                                ?> <br>
-                        <a href="alterarnome.php">Alterar nome de usuário</a>
-                    </div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-md-3">
-                        <h5>E-mail:</h5>
-                    </div>
-                    <div class="col-md-9 text-secondary">
-                    <?php
-                                if(isset($_SESSION['emailbanco'])) {
-                                echo $_SESSION["emailbanco"];
-                                 }
-                                ?>
-                        <br>
-                        <a href="">Alterar e-mail de usuário</a>
-                    </div>
-                    </div>
-                                 <hr>
-                    <div class="row">
-                    <div class="col-md-3">
-                        <h5>Senha:</h5>
-                    </div>
-                    <div class="col-md-9 text-secondary">
-                    ********
-                        <br>
-                        <a href="">Alterar senha do usuário</a>
-                    </div>
-                    </div>
+                <form action="nome-trocar.php" method="post">
+  <div class="form-group">
+    <label for="exampleInputNome">Digite o novo nome:</label>
+    <input type="text" class="form-control" id="exampleInputNome" name ="alterarnome"  placeholder="Novo nome">
+    <small class="txtaviso">
+    
+	<?php
+          if (isset($_GET['erro'])) { if ($_GET['erro'] == "vazio") { 
+			echo "Preencha o formulário!"; }}
+			
+  	?>  
+
+                                </small>    
+    
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Enviar</button>
+  <h4 class="txtaviso">
+	<?php
+          if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "nomealterado") { 
+			echo "O nome de usuário foi alterado!"; }}
+			
+  	?>  
+	</h4>
+   
+    <h4 class="txtaviso">
+	<?php
+          if (isset($_GET['erro'])) { if ($_GET['erro'] == "desconhecido") { 
+			echo "Devido a um erro, não foi possivel alterar o nome do usuário!"; }}
+			
+  	?>  
+	</h4>
+    
+  
+</form>
+
+                    
                     <br>
                    
 </div>

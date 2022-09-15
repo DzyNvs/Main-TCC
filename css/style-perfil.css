@@ -41,3 +41,10 @@ body{
     top: 55px;
     background-color: whitesmoke;
 }
+.txtaviso{
+
+    position: relative;
+    font-size: 20px;
+    color: hsl(212, 92%, 53%);
+
+}

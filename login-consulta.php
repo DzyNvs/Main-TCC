@@ -5,7 +5,7 @@ session_start();
 if(!empty($_POST['emailuser']) && !empty($_POST['userpass'])){
     session_start();
 
-
+    
     $txsenha = $_POST['userpass'];
     $txemail = $_POST['emailuser'];
     $emailbanco ="";
