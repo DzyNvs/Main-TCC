@@ -255,9 +255,9 @@ Zona: Fora da Capital de São Paulo. <p>
           <img width="80" height="250" class="card-img-top" src="img/AquarioUbatuba.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Aquário de Ubatuba </h5>
-            <br>
-            <p class="card-text">Com várias espécies locais, um tanque aberto, pássaros e répteis, o Aquário de Ubatuba oferece aos seus visitantes a oportunidade de conhecer de perto um pouco do complexo mundo marinho. </p>
-            <br>
+            <br><br><br>
+            <p class="card-text">Aquário com várias espécies locais, um tanque aberto, pássaros e répteis. </p>
+            <br><br>
          
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo5">
     Veja mais!
@@ -275,7 +275,7 @@ Zona: Fora da Capital de São Paulo. <p>
         <div class="modal-body">
           <img class="card-img-top" src="img/AquarioUbatuba.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rua Guarani, 859 - Itaguá, Ubatuba - SP  <p>
-            CEP: 11680-000 <p>
+            CEP:11680-000 <p>
 Telefone: (12) 3834-1382  <p>
 Site: www.aquariodeubatuba.com.br  <p>
 Zona: Fora da Capital de São Paulo.
@@ -315,7 +315,7 @@ Zona: Fora da Capital de São Paulo.
           <img class="card-img-top" src="img/AquarioAparecida.jpg" alt="Imagem de capa do card">
           <p>Endereço: Centro de Apoio ao Romeiro. Asa Oeste Aquario. Bairro: - Avenida Getúlio Vargas, R. Santa Rita, s/ n, Aparecida - SP  <p>
             CEP: 12570-000 <p>
-Telefone: (12) 3909–2977  <p>
+            Telefone:(12) 3909–2977  <p>
 Site: www.a12.com <p>
 Zona: Fora da Capital de São Paulo.
 </p>

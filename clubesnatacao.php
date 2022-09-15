@@ -155,7 +155,7 @@ Zona: Sul
             CEP: 02012-010  <p>
 Telefone: (11) 2223-3300  <p>
 Site: www.instagram.com/clubeesperiaoficial  <p>
-Zona: Norte
+Zona: Norte.
 </p>
         </div>
         <div class="modal-footer">
@@ -215,9 +215,8 @@ Zona: Zona Leste
           <img width="80" height="250" class="card-img-top" src="img/clubesirio.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Esporte Clube Sírio</h5>
-            <br><br>
-            <p class="card-text"> O Esporte Clube Sírio oferece o que há de mais moderno em matéria de lazer, cultura e esporte e, ao mesmo tempo, cultua a preservação das tradições e dos costumes árabes no Brasil.</p>
-            <br>
+            <p class="card-text"> Com milhares de associados e profundamente integrado à vida paulistana, o Esporte Clube Sírio faz parte da elite dos clubes socioculturais e esportivos de São Paulo, oferecendo o que há de mais moderno em matéria de lazer, cultura e esporte para todas as idades e, ao mesmo tempo, cultuando a preservação das tradições, dos costumes e da hospitalidade árabe no Brasil.</p>
+
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo5">
     Veja mais!
   </button>
@@ -253,9 +252,8 @@ Zona: Sul <p>
           <img width="80" height="250" class="card-img-top" src="img/clubeypiranga.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Atlético Ypiranga</h5>
-            <br>
-            <p class="card-text">Com amplas opções esportivas e de lazer, além de uma longa trajetória, o Clube Atlético Ypiranga pode se orgulhar de ser grande referência esportiva e social na cidade de São Paulo. </p>
-            <br>
+            <p class="card-text">Com amplas opções esportivas e de lazer além de uma longa trajetória, o Clube Atlético Ypiranga pode se orgulhar de ser grande referência esportiva e social na cidade de São Paulo. </p>
+
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo6">
     Veja mais!
   </button>
@@ -292,9 +290,8 @@ Zona: Zona Sul
           <img width="80" height="250" class="card-img-top" src="img/cluberuve.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">R.U.V.E. Recreativo União Vila Esperança </h5>
-            <br>
-            <p class="card-text">Sendo uma associação sem fins lucrativos, o RUVE oferece à preços acessíveis a infraestrutura de um clube de elite. Contendo quadra poliesportiva, piscina coberta e muito mais! </p>
-            <br>
+            <p class="card-text">O RUVE sendo uma associação sem fins lucrativos oferece com custos acessíveis infraestrutura de um clube muito bem estruturado. Com quadra poliesportiva, salão social, piscina coberta, piscina descoberta semiolímpica, salas de ginástica, além de professores altamente qualificados. </p>
+
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo7">
     Veja mais!
   </button>
@@ -373,9 +370,8 @@ Zona: Oeste
           <img width="80" height="250" class="card-img-top" src="img/clubepaulista.jpeg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Tênis Clube Paulista</h5>
-            <br><br>
-            <p class="card-text">Contém dezenas de modalidades esportivas, academia gratuita aos associados, cursos de dança, shows, festas, atividades físicas e muito mais! </p>
-            <br><br>
+            <p class="card-text">Local de lazer e entretenimento seguro, proporcionando ótima qualidade de vida aos associados. Contém dezenas de modalidades esportivas, academia gratuita aos associados, cursos de dança, shows, festas, atividades físicas, eventos, saunas, berçário, salas de jogos, brinquedoteca com monitores, piscinas aquecidas, lanchonetes e restaurantes. </p>
+
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo9">
     Veja mais!
   </button>
@@ -410,9 +406,8 @@ Zona: Sul <p>
           <img width="80" height="250" class="card-img-top" src="img/clubeacre.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Acre</h5>
-            <br><br>
-            <p class="card-text">Com infraestrutura completa para atividades sociais, de lazer e saúde, o clube ainda organiza campeonatos das mais variadas modalidades esportivas e diversos tipos de eventos. </p>
-            <br>
+            <p class="card-text">O Acre Clube é um dos mais tradicionais clubes de lazer, cultura e esportes de São Paulo. Com infraestrutura completa para atividades sociais, de lazer e saúde, o clube ainda organiza campeonatos das mais variadas modalidades esportivas, festas, shows, cursos, exposições de arte e até apresentação de peças de teatro. </p>
+
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo10">
     Veja mais!
   </button>
@@ -450,9 +445,8 @@ Zona: Norte
           <img width="80" height="250" class="card-img-top" src="img/clubeescolasp.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Escola Jardim SP</h5>
-            <br>
-            <p class="card-text">Centro que oferece atividades esportivas gratuitas de esporte e lazer. Possuindo uma área que conta com piscina, campo de futebol, quadras poliesportivas e muito mais!</p>
-            <br>
+            <p class="card-text">Centro que oferece atividades esportivas gratuitas de esporte e lazer. Possuindo uma área de 58.725 metros quadrados que conta com piscina, campo de futebol, quadras poliesportivas, quadra de tênis, playground e aparelhos para terceira idade.</p>
+
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo11">
     Veja mais!
   </button>
@@ -532,9 +526,8 @@ Zona: Zona Leste
           <img width="80" height="250" class="card-img-top" src="img/clubeassociacao.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Associação Atlética São Paulo</h5>
-            <br>
-            <p class="card-text"> O clube oferece diversas atividades e áreas de lazer para relaxar. Ginásio poliesportivo, parque aquático e sauna são alguns exemplos. </p>
-            <br><br>
+            <p class="card-text">Contendo uma imensa área verde a Atlética nos concede atividades diversas e áreas de lazer para relaxar. Ginásio poliesportivo, parque aquático e sauna são alguns exemplos. </p>
+
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo13">
     Veja mais!
   </button>
@@ -570,9 +563,8 @@ Zona: Centro <p>
           <img width="80" height="250" class="card-img-top" src="img/clubeindiano.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Atlético Indiano</h5>
-            <br>
-            <p class="card-text">O espaço oferece tendências inovadoras de lazer, esporte e diversão, ampla estrutura e atividade para toda a família. Tudo isso em uma área verde sem igual. </p>
-            <br>
+            <p class="card-text">O Clube Atlético Indiano oferece tendencias inovadoras de lazer, esporte e diversão, ampla estrutura, estacionamento e atividade para toda a família. Tudo isso as margens da Represa Guarapiranga em uma área verde sem igual e privilegiada na cidade de São Paulo. </p>
+
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo14">
     Veja mais!
   </button>

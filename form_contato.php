@@ -44,7 +44,7 @@ include("menu.php");
 		<form action="contato-salvar.php" method="post">
             <label>Nome</label>
             <input type="text" name="name" placeholder="Digite seu nome" autocomplete="off" required>
-            <label>E-mail</label>
+            <label>Email</label>
             <input type="email" name="email" placeholder="Digite seu e-mail" autocomplete="off" required>
 			<label>Assunto</label>
             <input type="text" name="assunto" placeholder="Digite o foco da mensagem" autocomplete="off" required>
