@@ -54,10 +54,11 @@
           <img width="80" height="250" class="card-img-top" src="img/Ceret.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Piscina do Ceret</h5>
-            <p class="card-text"> Conta com uma das maiores piscinas pública de São Paulo, com 100 metros de comprimento e 50 de largura.
+            <br><br><br>
+            <p class="card-text"> Conta com uma das maiores piscinas públicas de São Paulo.
+Existem duas piscinas para crianças menores onde as mães e pais podem curtir com os pequenos com toda a segurança.</p>
+<br><br>
 
-Você também pode levar as crianças menores, existem duas piscinas para crianças normalmente de idade abaixo dos 3 anos onde as mães e pais podem curtir com os pequenos com toda a segurança.</p>
-        
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo">
     Veja mais!
   </button>
@@ -92,8 +93,9 @@ Zona: Leste <p>
           <img width="80" height="250" class="card-img-top" src="img/SescItaquera.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Piscinas – Sesc Itaquera</h5>
-            <p class="card-text"> O local conta com 34 terminais de internet livre, cafeteria, lanchonetes, espaço de leitura, estacionamento com 1.060 vagas, ginásio poliesportivo, parque aquático, campo de futebol, loja Sesc, salas multiuso, centro ambiental e auditório com capacidade para receber 120 pessoas. Há piscina em quase todas as unidades do Sesc, com exceção do Parque Dom Pedro II e Florêncio de Abreu. </p>
-
+            <br><br>
+            <p class="card-text"> O local conta com ginásio poliesportivo, parque aquático, campo de futebol e muito mais! Há piscina em quase todas as unidades do Sesc, com exceção do Parque Dom Pedro II e Florêncio de Abreu. </p>
+            <br>
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo1">
     Veja mais!
   </button>
@@ -110,7 +112,7 @@ Zona: Leste <p>
         <div class="modal-body">
           <img class="card-img-top" src="img/SescItaquera.jpg" alt="Imagem de capa do card">
           <p>Endereço: Av. Fernando do Espírito Santo Alves de Mattos, 1000 - Itaquera, São Paulo - SP   <p>
-            CEP:08265-045  <p>
+            CEP: 08265-045  <p>
 Telefone: (11) 2523-9200  <p>
 Site: www.sescsp.org.br/servicos-sesc-itaquera/  <p>
 Zona: Leste
@@ -170,8 +172,9 @@ Zona: Leste.
           <img width="80" height="250" class="card-img-top" src="img/Trindade.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">CE Jd. São Paulo - CEE Alfredo Ignácio Trindade </h5>
-            <p class="card-text">Clube em São Paulo – O Clube Escola Jardim São Paulo é um complexo de lazer e educacional localizado na rua Viri, no Jardim São Paulo, bairro da zona norte paulistana ao lado do Parque Domingos Luís. É administrado pela Prefeitura de São Paulo.</p>
-
+            <br><br>
+            <p class="card-text"> O Clube Escola Jardim São Paulo é um complexo de lazer e educacional administrado pela Prefeitura de São Paulo.</p>
+            <br><br><br><br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo3">
     Veja mais!
   </button>
@@ -213,8 +216,9 @@ Zona: Norte.
           <img width="80" height="250" class="card-img-top" src="img/Pacaembu.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Complexo Esportivo do Pacaembu</h5>
-            <p class="card-text"> Ginásio poliesportivo em São Paulo – Se engana quem pensa que o Pacaembu é só futebol. Além de um complexo esportivo, o estádio tem uma piscina aquecida que foi reformada no ano passado. Nos finais de semana, os frequentadores estendem as cangas e toalhas na arquibancada para tomar sol. A inscrição, antes restrita aos moradores do entorno, agora pode ser feita gratuitamente por qualquer pessoa, de segunda a sexta, das 8h às 17h. É necessário levar uma cópia do RG, comprovante de residência e uma foto 2×2. A piscina fica aberta de terça a domingo até às 17h e os associados também têm acesso à quadra de futsal, sala de ginástica e de musculação.</p>
-
+            <br>
+            <p class="card-text"> Além de um complexo esportivo, o estádio tem uma piscina aquecida que foi reformada no ano passado. A piscina fica aberta de terça a domingo até às 17h e os associados também têm acesso à quadra de futsal, sala de ginástica e de musculação.</p>
+            <br>
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo4">
     Veja mais!
   </button>
@@ -288,7 +292,7 @@ Zona: Centro.
           <img width="80" height="250" class="card-img-top" src="img/IbirapueraDes.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Esportivo Municipal Ibirapuera</h5>
-            <p class="card-text">A poucos quarteirões do Parque do Ibirapuera, duas piscinas, uma semiolímpica e outra infantil, ficam abertas de terça a domingo até às 17h. Para fazer a carteirinha não precisa pagar nada. Basta levar RG, comprovante de residência, duas fotos 3×4 e fazer o exame médico. Além do centro esportivo do Ibirapuera, a Secretaria Municipal de Esportes e Lazer mantém outros 33 clubes espalhados pela cidade, que costumam funcionar de setembro a maio. </p>
+            <p class="card-text"> A poucos quarteirões do Parque do Ibirapuera, duas piscinas, uma semiolímpica e outra infantil, ficam abertas de terça a domingo até às 17h.  </p>
 
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo6">
     Veja mais!

@@ -336,7 +336,7 @@ Zona: Fora da Capital de São Paulo
           <div class="card-body">
             <h5 class="card-title"> Acqualinda </h5>
             <br>
-            <p class="card-text"> Novo parque aquático da cidade de Andradina! Contém o maior rio lento das américas e uma enorme montanha-russa aquática. Tem a previsão de abertura em agosto de 2022. </p>
+            <p class="card-text"> Novo parque aquático da cidade de Andradina! Contém o maior rio lento das américas e uma enorme montanha-russa aquática. </p>
             <br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo7">
     Veja mais!
@@ -403,15 +403,7 @@ Zona: Fora da Capital de São Paulo
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <!--  
-    <script type="text/javascript" src="vanilla-tilt.js"></script>
-    <script type="text/javascript">
-	    VanillaTilt.init(document.querySelectorAll(".card"), {
-		   max: 25,
-		   speed: 400
-	});
-      </script>
---> 
+
   </body>
   <?php
 include("rodape.php")
