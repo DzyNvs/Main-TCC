@@ -335,9 +335,9 @@ Zona: Fora da Capital de São Paulo
           <img width="80" height="250" class="card-img-top" src="img/Acqualinda.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title"> Acqualinda </h5>
-            <br>
+            <br><br>
             <p class="card-text"> Novo parque aquático da cidade de Andradina! Contém o maior rio lento das américas e uma enorme montanha-russa aquática. </p>
-            <br>
+            <br><br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo7">
     Veja mais!
   </button>

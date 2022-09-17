@@ -292,8 +292,9 @@ Zona: Centro.
           <img width="80" height="250" class="card-img-top" src="img/IbirapueraDes.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Esportivo Municipal Ibirapuera</h5>
+            <br><br><br>
             <p class="card-text"> A poucos quarteirões do Parque do Ibirapuera, duas piscinas, uma semiolímpica e outra infantil, ficam abertas de terça a domingo até às 17h.  </p>
-
+            <br><br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo6">
     Veja mais!
   </button>
