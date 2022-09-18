@@ -162,6 +162,54 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
 
       </div>
 
+      <h2 font-weight="700" color="darkblue" class="h2-footer text-center">LOCAIS COM PREÇOS MAIS ACESSIVEIS </h2>
+
+      <div class="container-fluid">
+      <!-- slider -->
+      <div id="mainSlider" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#mainSlider" data-slide-to="0" class="active"></li>
+          <li data-target="#mainSlider" data-slide-to="1"></li>
+          <li data-target="#mainSlider" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="img/Magic City.jpg" class="d-block w-100" alt="Projetos de e-commerce">
+
+            <!-- tirar classe d-none -->
+
+            <div class="carousel-caption d-md-block">
+              <h2>Quer criar um e-commerce?</h5>
+              <p>Conte conosco, temos mais de 30 lojas no portfólio.</p>
+              <a href="#" class="main-btn">Ver portfólio</a>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="img/Ceret.jpg" class="d-block w-100" alt="Engenharia de software">
+            <div class="carousel-caption d-md-block">
+              <h2>Está querendo tirar o projeto do papel?</h5>
+              <p>Nossa equipe de engenharia de software está pronta para lhe atender.</p>
+              <a href="#" class="main-btn">Entre em contato</a>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="img/natação.jpg" class="d-block w-100" alt="Manutenção em software">
+            <div class="carousel-caption d-md-block">
+              <h2>Está buscando manutenção no seu software?</h5>
+              <p>A hDC conta com engenheiros altamente qualificados para resolver seu problema.</p>
+              <a href="#" class="main-btn">Entre em contato</a>
+            </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#mainSlider" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#mainSlider" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
       <hr>
 
       <div class="col-11 m-auto">
@@ -172,9 +220,9 @@ aquáticos e pontos turísticos que envolvam água em geral. Visamos atender pri
 inscrever em clubes de natação, turistas que querem visitar aquários para conhecer um
 pouco mais da fauna nacional, além de pais que desejam levar seus filhos para visitar
 parques aquáticos ou inscrevê-los em clubes de natação para se exercitarem.</p>
-
-
       </div>
+
+      
 
 <script type="text/javascript" src="vanilla-tilt.js"></script>
 <script type="text/javascript">
