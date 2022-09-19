@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+body{
+    overflow-x: hidden;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(to right, rgb(255, 255, 255), lightblue);
+    
+}
+
+.container{
+    margin-top:100px;
+    margin-bottom:50px;
+}
+.col-md-5{
+    margin-top:50px;
+}
+
+.card{
+    margin-top:30px;
+}
