@@ -24,7 +24,7 @@
                 <div class="col-md-4 mt-1">
                     <div class="card text-center sidebar">
                         <div class="card-body">
-                           
+                            
                             <div class="mt-3">
                                 <br>
                                 <br>
@@ -34,7 +34,7 @@
                                 echo '<h3>'. $_SESSION["nomebanco"]. "</h3>";
                                  }
                                 ?>
-                                <a href="alteraremail.php">Alterar email</a>
+                                <a href="">Alterar email</a>
                                 <a href="">Alterar senha</a>
                                 <a href =""> Favoritos</a>
                                 <a href="logout.php">Logout</a>
@@ -45,47 +45,46 @@
                 </div>
     <div class="col-md-8 mt-1">
         <div class="card mb-3 content">
-            <h1 class="m-3 pt-3">Conta</h1>
+            <h1 class="m-3 pt-3">Alterar E-mail do usuário</h1>
             <div class="card-body">
                 <div class="row">
-                    <div class="col-md-3">
-                        <h5>Nome:</h5>
-                    </div>
-                    <div class="col-md-9 text-secondary">
-                    <?php
-                                if(isset($_SESSION['nomebanco'])) {
-                                echo $_SESSION["nomebanco"];
-                                 }
-                                ?> <br>
-                        <a href="alterarnome.php">Alterar nome de usuário</a>
-                    </div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-md-3">
-                        <h5>E-mail:</h5>
-                    </div>
-                    <div class="col-md-9 text-secondary">
-                    <?php
-                                if(isset($_SESSION['emailbanco'])) {
-                                echo $_SESSION["emailbanco"];
-                                 }
-                                ?>
-                        <br>
-                        <a href="alteraremail.php">Alterar e-mail de usuário</a>
-                    </div>
-                    </div>
-                                 <hr>
-                    <div class="row">
-                    <div class="col-md-3">
-                        <h5>Senha:</h5>
-                    </div>
-                    <div class="col-md-9 text-secondary">
-                    ********
-                        <br>
-                        <a href="">Alterar senha do usuário</a>
-                    </div>
-                    </div>
+                <form action="email-trocar.php" method="post">
+  <div class="form-group">
+    <label for="exampleInputNome">Digite o novo e-mail:</label>
+    <input type="email" class="form-control" id="exampleInputNome" name ="alteraremail"  placeholder="Novo E-mail">
+    <small class="txtaviso">
+    
+	<?php
+          if (isset($_GET['erro'])) { if ($_GET['erro'] == "vazio") { 
+			echo "Preencha o formulário!"; }}
+			
+  	?>  
+
+                                </small>    
+    
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Enviar</button>
+  <h4 class="txtaviso">
+	<?php
+          if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "emailalterado") { 
+			echo "O novo E-mail foi registrado no servidor!"; }}
+			
+  	?>  
+	</h4>
+   
+    <h4 class="txtaviso">
+	<?php
+          if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "erro") { 
+			echo "Devido a um erro, não foi possivel alterar o E-mail do usuário!"; }}
+			
+  	?>  
+	</h4>
+    
+  
+</form>
+
+                    
                     <br>
                    
 </div>
