@@ -54,7 +54,7 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="perfil.php"> Ver informações do Usuário </a>
           <a class="dropdown-item" href="alteraremail.php"> Alterar e-mail </a>
-          <a class="dropdown-item" href="perfil.php"> Alterar senha </a>      
+          <a class="dropdown-item" href="alterarsenha.php"> Alterar senha </a>      
           <a class="dropdown-item" href="perfil.php"> Favoritos </a>
           <a class="dropdown-item" href="logout.php"> Logout </a>
         </div>

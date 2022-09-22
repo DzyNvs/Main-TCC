@@ -34,10 +34,13 @@
                                 echo '<h3>'. $_SESSION["nomebanco"]. "</h3>";
                                  }
                                 ?>
-                                <a href="">Alterar email</a>
-                                <a href="alterarsenha.php">Alterar senha</a>
+                                <a href="alteraremail.php">Alterar email</a>
+                                <a href="">Alterar senha</a>
                                 <a href =""> Favoritos</a>
                                 <a href="logout.php">Logout</a>
+                                <br>
+                                <br>
+                                <br>
                                
                             </div>
                         </div>
@@ -45,13 +48,17 @@
                 </div>
     <div class="col-md-8 mt-1">
         <div class="card mb-3 content">
-            <h1 class="m-3 pt-3">Alterar E-mail do usuário</h1>
+            <h1 class="m-3 pt-3">Alterar a senha do usuário</h1>
             <div class="card-body">
                 <div class="row">
-                <form action="email-trocar.php" method="post">
+                <form action="senha-trocar.php" method="post">
   <div class="form-group">
-    <label for="exampleInputNome">Digite o novo e-mail:</label>
-    <input type="email" class="form-control" id="exampleInputNome" name ="alteraremail"  placeholder="Novo E-mail">
+    <label for="exampleInputNome">Digite sua antiga senha:</label>
+    <input type="password" class="form-control" id="exampleInputNome" name ="oldsenha"  placeholder="Senha antiga" minlength="8">
+    <label for="exampleInputNome">Digite a nova senha:</label>
+    <input type="password" class="form-control" id="exampleInputNome" name ="senhanova"  placeholder="Nova senha" minlength="8">
+    <label for="exampleInputNome">Confirme a nova senha:</label>
+    <input type="password" class="form-control" id="exampleInputNome" name ="confirmarsenha"  placeholder="Confirmar senha" minlength="8">
     <small class="txtaviso">
     
 	<?php
@@ -67,16 +74,24 @@
   <button type="submit" class="btn btn-primary">Enviar</button>
   <h4 class="txtaviso">
 	<?php
-          if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "emailalterado") { 
-			echo "O novo E-mail foi registrado no servidor!"; }}
+          if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "senhaalterada") { 
+			echo "Sua nova senha foi registrada no servidor!"; }}
 			
   	?>  
 	</h4>
    
     <h4 class="txtaviso">
 	<?php
-          if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "erro") { 
-			echo "Devido a um erro, não foi possivel alterar o E-mail do usuário!"; }}
+          if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "naoconferem") { 
+			echo "As senhas não conferem!"; }}
+			
+  	?>  
+	</h4>
+
+    <h4 class="txtaviso">
+	<?php
+          if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "antigasenha") { 
+			echo "Sua antiga senha está incorreta!"; }}
 			
   	?>  
 	</h4>
