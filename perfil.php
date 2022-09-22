@@ -35,7 +35,7 @@
                                  }
                                 ?>
                                 <a href="alteraremail.php">Alterar email</a>
-                                <a href="">Alterar senha</a>
+                                <a href="alterarsenha.php">Alterar senha</a>
                                 <a href =""> Favoritos</a>
                                 <a href="logout.php">Logout</a>
                                
@@ -83,7 +83,7 @@
                     <div class="col-md-9 text-secondary">
                     ********
                         <br>
-                        <a href="">Alterar senha do usuário</a>
+                        <a href="alterarsenha.php">Alterar senha do usuário</a>
                     </div>
                     </div>
                     <br>
