@@ -44,23 +44,27 @@
   
   
         <label class="login__label">
+          <div class="row">
           <span>senha</span>
-          <input type="password" name="userpass" class="input">
+          <input type="password" name="userpass" class="input senha" id="senha">
+          <img src="https://icon-library.com/images/icon-eyes/icon-eyes-12.jpg" class="btn">
+          </div>
         </label>
+        
         <div class="form__group">
         <label class="login__label">
+          <div class="row2">
           <span>Confirme a senha</span>
-          <input type="password" name="userpass2" class="input">
-          <i class="form__input-icon fas fa-lock"></i>
-                    <i class="form__input-icon fas fa-eye" data-password-eye></i>
-                    <span class="form__message-error" data-error-message></span>
+          <input type="password" name="userpass2" class="input senha2" >
+          <img src="https://icon-library.com/images/icon-eyes/icon-eyes-12.jpg" class="btn2">
+          </div>
           <h4 class ="error">
            <?php
           if (isset($_GET['erro'])) { if ($_GET['erro'] == "senhanaocorrespondentes") { echo "As senhas não conferem!"; }}
   ?>  
           </h4>
         </label>
-        <div class="requirements__progressbar" data-requirement-progressbar data-percentage="0"></div>
+        <!--<div class="requirements__progressbar" data-requirement-progressbar data-percentage="0"></div>
                         <div class="requirements__description">A senha deverá ter</div>
                         <ul class="requirements__list">
                             <li class="requirements__item" data-requirement-item="lowerUpperCase">
@@ -79,7 +83,7 @@
                             </li>
                         </ul>
                     </div>
-                    <span class="form__message-error" data-error-message>Campo obrigatório</span>
+-->        
                     <script src="./mostrarsenha.js"></script>
                     <script src="./form-validation.js"></script>
         
