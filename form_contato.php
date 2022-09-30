@@ -63,27 +63,10 @@ include("menu.php");
 	<br>
 	<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </body>	
 
 	
-	<?php
+<?php
 include("rodape.php")
 ?>
 </html>

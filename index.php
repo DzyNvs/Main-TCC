@@ -244,5 +244,4 @@ parques aquáticos ou inscrevê-los em clubes de natação para se exercitarem.<
 
 <?php
 include("rodape.php")
-
 ?>
