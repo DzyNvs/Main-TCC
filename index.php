@@ -128,34 +128,6 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
  
 
    
-<br> <br> 
-<br> 
-<br> 
-<br> 
-
-
-
-
-
-      <div class="card" style="width: 18rem;">
-  <img src="img/Ceret2.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title"> Clube Recreativo CERET </h5>
-    <p class="card-text"> O Clube Recreativo CERET é hoje o clube mais bem avaliado de São Paulo!!</p>
-  </div>
-  <ul class="list-group list-group-flush">
-    <li class="list-group-item"> 4.6/5 -- 18,739 Avaliações </li>
-    <li class="list-group-item"> "Clubes de natações super limpos e ambiente muito agrádavel, recomendo muito!" </li>
-    <li class="list-group-item"> "Ótimo lugar para um lazer em família para um dia de recreação. Com fácil acesso, um ambiente muito familiar, bem cuidado e com um horto florestal muito bem cuidado. Super indico 😉" </li>
-  </ul>
-  <div class="card-body">
-    <a href="http://www.ceret.com.br" class="card-link">Site</a>
-    <a href="https://www.google.com/search?q=clube+recreativo+ceret&sxsrf=ALiCzsZEgtce9yCniB0c-MNCCjMOjVk4pA%3A1662839191195&ei=l-kcY8bKC8_G5OUPzZyAiAQ&gs_ssp=eJzj4tVP1zc0TDIzKjYwMs81YLRSNaiwNElONU21MDBKS04yMTa2tAIKJSalGhgkJpsYGhsnmqaZeIkl55QmpSoUpSYXpSaWZJblKySnFqWWAABO3Rd1&oq=clube+rec&gs_lcp=Cgdnd3Mtd2l6EAMYADIKCC4QxwEQrwEQQzIFCAAQgAQyCwguEIAEEMcBEK8BMgsILhCABBDHARCvATILCC4QgAQQxwEQrwEyEQguEIAEELEDEIMBEMcBEK8BMgsILhCABBDHARCvATILCC4QgAQQxwEQrwEyBQgAEIAEMgsILhCABBDHARCvAToKCAAQRxDWBBCwAzoKCC4QxwEQrwEQJzoLCAAQgAQQsQMQgwE6CAguEIAEELEDOggILhCxAxCDAToRCC4QgAQQsQMQgwEQxwEQ0QM6BAgAEEM6CwguEIAEELEDEIMBOggIABCABBCxAzoHCCMQ6gIQJzoNCC4QxwEQrwEQ6gIQJzoNCC4QxwEQ0QMQ6gIQJzoHCAAQsQMQQzoUCC4QgAQQsQMQgwEQxwEQrwEQ1AI6BQguEIAESgQIQRgASgQIRhgAUJAmWJBEYOxNaApwAXgAgAGrAYgBuwuSAQQwLjEwmAEAoAEBsAEKyAEIwAEB&sclient=gws-wiz#lrd=0x94ce5e802fcb4339:0x9abe00ac4133a5f4,1,,," class="card-link">Mais Avaliações</a>
-  </div>
-</div>
-<br> 
-<br> 
-<br> 
 <br> 
 
 </section> 
@@ -174,30 +146,43 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="img/Magic City.jpg" class="d-block w-100" alt="Projetos de e-commerce">
-
-            <!-- tirar classe d-none -->
-
+            <img src="img/AquarioSantos.jpg" class="d-block w-100" alt="Projetos de e-commerce">
             <div class="carousel-caption d-md-block">
-              <h2>Quer criar um e-commerce?</h5>
-              <p>Conte conosco, temos mais de 30 lojas no portfólio.</p>
-              <a href="#" class="main-btn">Ver portfólio</a>
+              <h2>Aquário Municipal de Santos</h5>
+              <p>Ingressos à partir de R$:8. </p>
+              <a href="https://www.turismosantos.com.br/?q=pt-br/content/aqu%C3%A1rio" class="main-btn">Site</a>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="img/Ceret.jpg" class="d-block w-100" alt="Engenharia de software">
+            <img src="img/AquarioAparecida.jpg" class="d-block w-100" alt="Engenharia de software">
             <div class="carousel-caption d-md-block">
-              <h2>Está querendo tirar o projeto do papel?</h5>
-              <p>Nossa equipe de engenharia de software está pronta para lhe atender.</p>
-              <a href="#" class="main-btn">Entre em contato</a>
+              <h2>Aquário de Aparecida </h5>
+              <p>Ingressos à partir de R$:10. </p>
+              <a href="https://www.a12.com/centro-de-apoio-ao-romeiro/aquario" class="main-btn">Entre em contato</a>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="img/natação.jpg" class="d-block w-100" alt="Manutenção em software">
+            <img src="img/Magic City.jpg" class="d-block w-100" alt="Manutenção em software">
             <div class="carousel-caption d-md-block">
-              <h2>Está buscando manutenção no seu software?</h5>
-              <p>A hDC conta com engenheiros altamente qualificados para resolver seu problema.</p>
-              <a href="#" class="main-btn">Entre em contato</a>
+              <h2>Magic City</h5>
+              <p>Ingressos à paritr de R$:29,90.</p>
+              <a href="https://www.magiccity.com.br/" class="main-btn">Site</a>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="img/SescItaquera.jpg" class="d-block w-100" alt="Manutenção em software">
+            <div class="carousel-caption d-md-block">
+              <h2>Piscinas – Sesc Itaquera</h5>
+              <p>Ingressos à paritr de R$:12,00 (credencial plena) e R$:24,00 (visitantes).</p>
+              <a href="https://portal.sescsp.org.br/online/artigo/8680_DICAS+PARA+APROVEITAR+O+SEU+DIA+NO+SESC+ITAQUERA#:~:text=Valores%20v%C3%A1lidos%20para%20o%20dia,24%2C00%20(visitantes)." class="main-btn">Site</a>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="img/piscinas.jpg" class="d-block w-100" alt="Manutenção em software">
+            <div class="carousel-caption d-md-block">
+              <h2>Piscina do Ceret</h5>
+              <p>Entrada gratuita (com a apresentação da carteirinha).</p>
+              <a href="https://www.ceret.com.br/ceret-piscina/" class="main-btn">Site</a>
             </div>
           </div>
         </div>
