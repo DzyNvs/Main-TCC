@@ -22,11 +22,17 @@
 	  <div class="row featurette">
             <div class="col-md-7">
                 <h2 class="featurette-heading">Quem Somos</h2>
-                <p class="lead">Lorem ipsum aenean donec elit donec risus sagittis dictumst iaculis nec consectetur, quisque ultrices imperdiet morbi iaculis torquent nulla posuere ante. quisque habitasse diam fringilla cras vitae auctor, est scelerisque purus curae quisque laoreet, fringilla tristique pellentesque 
-                    <br /><br />
-                    Lorem ipsum aenean donec elit donec risus sagittis dictumst iaculis nec consectetur, quisque ultrices imperdiet morbi iaculis torquent nulla posuere ante. quisque habitasse diam fringilla cras vitae auctor, est scelerisque purus curae quisque laoreet, fringilla tristique pellentesque 
-                    <br /><br />
-                    Lorem ipsum aenean donec elit donec risus sagittis dictumst iaculis nec consectetur, quisque ultrices imperdiet morbi iaculis torquent nulla posuere ante. quisque habitasse diam fringilla cras vitae auctor, est scelerisque purus curae quisque laoreet, fringilla tristique pellentesque </p>
+                <p class="lead">O projeto SPSUBMERSO é um site voltado ao mundo submarino, tendo como foco a região da cidade de São Paulo, nele se é 
+                possivel encontrar informações sobre diversas atividades referentes a esse maravilhoso mundo, que vão desde clubes e 
+                atividades aquáticas como natação, até zoológicos com foco na vida marinha.
+              <br /><br />
+                Entre nossos obetivos estão a vontade e necessidade enxergada de que mais pessoas possam se interessar por
+                atividades aquáticas e ter mais consciência do quanto a água é importante e fundamental para nós de diferentes formas, 
+                tanto para lazer, diversão e necessidade quanto para que possamos perder peso e praticar exercícios de maneira divertida 
+                e interativa. 
+              <br /><br />
+                Buscamos a informação afim de gerar conhecimento além de facilitar e oferecer a seus utilizadores 
+                um local de filtro selecionando os melhores e mais bem avaliados estabelecimentos. </p>
             </div>
             <div class="col-md-5">
                 <img class="featurette-image img-fluid rounded-top mx-auto" src="img/escritorio1.jpg" 
