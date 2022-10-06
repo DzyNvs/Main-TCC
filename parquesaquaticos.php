@@ -66,7 +66,7 @@
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/therma dos laranjais 2.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/therma dos laranjais 2.jpg" alt="Imagem de capa do card">
           <p>Endereço: Avenida do Folclore, 1543 – Jardim Santa Efigênia, Olímpia/SP – <p>
 CEP: 15405-014  <p>
 Telefone: (17) 3279-3500 <p>
@@ -106,7 +106,7 @@ Zona: Fora da Capital de São Paulo <p>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Wet’n Wild2.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Wet’n Wild2.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rodovia dos Bandeirantes, s/n – Km 72 – Zona Rural, Itupeva/SP –   <p>
             CEP: 13295-000  <p>
 Telefone: (11) 4496-8000  <p>
@@ -146,7 +146,7 @@ Zona: Zona Rural.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Thermas do Vale.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Thermas do Vale.jpg" alt="Imagem de capa do card">
           <p>Endereço: Av. Linneu de Moura, 205 – Urbanova, São José dos Campos/SP    <p>
             CEP: 12244-380 <p>
 Telefone: (12) 2136-8888  <p>
@@ -187,7 +187,7 @@ Zona: Fora da Capital de São Paulo.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Magic City.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Magic City.jpg" alt="Imagem de capa do card">
           <p>Endereço: Estrada do Pavoeiro, 8.870 – Índio Tibiriçá, Km 58,5 – Suzano/SP  –   <p>
             CEP: 08635-445  <p>
 Telefone: (11) 4765-5800   <p>
@@ -232,7 +232,7 @@ Zona: Fora da Capital de São Paulo.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Hot Beach.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Hot Beach.jpg" alt="Imagem de capa do card">
           <p>Endereço: Av. Governador Adhemar Pereira de Barros, 1260 – Olímpia/SP <p>
 CEP: 15406-255 <p>
 Telefone: (17) 3279-1111  <p>
@@ -272,7 +272,7 @@ Zona: Fora da Capital de São Paulo <p>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Thermas Water Park.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Thermas Water Park.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rod. SP 304 – Km 189 – Fazenda Limoeiro, s/nº – São Pedro/SP  <p>
             CEP: 13520-000  <p>
 Telefone: 4000-2998 <p>
@@ -311,7 +311,7 @@ Zona: Fora da Capital de São Paulo
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Castelo Park Aquático.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Castelo Park Aquático.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rodovia SP 143, km 3,5 – Cesário Lange/SP  <p>
             CEP: 18285-000  <p>
 Telefone: (15) 99703-5711  <p>
@@ -352,7 +352,7 @@ Zona: Fora da Capital de São Paulo
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Acqualinda.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Acqualinda.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rua Guarani, 859 - Itaguá, Ubatuba - SP   <p>
             CEP: 11680-000  <p>
 Telefone: (12) 3834-1382  <p>

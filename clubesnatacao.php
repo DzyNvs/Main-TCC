@@ -71,7 +71,7 @@
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubebosque.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubebosque.jpg" alt="Imagem de capa do card">
           <p>Endereço: R. Traituba, 287 - Vila da Saúde, São Paulo - SP <p>
 CEP: 04142-050  <p>
 Telefone: (11) 2276-0967 <p>
@@ -110,7 +110,7 @@ Zona: Sul <p>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubehelvetia.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubehelvetia.jpg" alt="Imagem de capa do card">
           <p>Endereço: Av. Indianópolis, 3145 - Planalto Paulista, São Paulo - SP   <p>
             CEP: 04063-006  <p>
 Telefone: (11) 2275-6738  <p>
@@ -150,7 +150,7 @@ Zona: Sul
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubeesperia.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubeesperia.jpg" alt="Imagem de capa do card">
           <p>Endereço: Av. Santos Dumont, 1313 - Santana, São Paulo - SP   <p>
             CEP: 02012-010  <p>
 Telefone: (11) 2223-3300  <p>
@@ -190,7 +190,7 @@ Zona: Norte
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubeescolamooca.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubeescolamooca.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rua Taquari, 635 - Mooca, São Paulo - SP   <p>
             CEP: 03166-000 <p>
 Telefone: (11) 2694-7668  <p>
@@ -231,7 +231,7 @@ Zona: Zona Leste
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubesirio.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubesirio.jpg" alt="Imagem de capa do card">
           <p>Endereço: Av. Indianópolis, 1192 - Planalto Paulista, São Paulo - SP <p>
 CEP: 04062-001  <p>
 Telefone: (11) 2189-8500 <p>
@@ -271,7 +271,7 @@ Zona: Sul <p>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubeypiranga.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubeypiranga.jpg" alt="Imagem de capa do card">
           <p>Endereço: R. do Manifesto, 475 - Ipiranga, São Paulo - SP   <p>
             CEP: 04209-000  <p>
 Telefone: (11) 3386-3386  <p>
@@ -311,7 +311,7 @@ Zona: Zona Sul
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/cluberuve.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/cluberuve.jpg" alt="Imagem de capa do card">
           <p>Endereço: R. Cumai, 170 - Vila Esperança, São Paulo - SP  <p>
             CEP: 03649-040  <p>
 Telefone: (11) 2684-9011  <p>
@@ -351,7 +351,7 @@ Zona: Leste
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubebutanta.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubebutanta.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rua Dr. Ernâni da Gama Corrêa, 367 - Conj. Res. Butanta, São Paulo - SP   <p>
             CEP: 05539-040  <p>
 Telefone: (11) 3721-5711 <p>
@@ -392,7 +392,7 @@ Zona: Oeste
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubepaulista.jpeg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubepaulista.jpeg" alt="Imagem de capa do card">
           <p>Endereço: R. Gualaxo, 285 - Aclimação, São Paulo - SP <p>
 CEP: 01533-020  <p>
 Telefone: (11) 3252-5254 <p>
@@ -431,7 +431,7 @@ Zona: Sul <p>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubeacre.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubeacre.jpg" alt="Imagem de capa do card">
           <p>Endereço: R. Água Comprida, 257 - Jardim Franca, São Paulo - SP   <p>
             CEP: 02339-040  <p>
 Telefone: (11) 2203-8788 <p>
@@ -472,7 +472,7 @@ Zona: Norte
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubeescolasp.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubeescolasp.jpg" alt="Imagem de capa do card">
           <p>Endereço: R. Viri, 425 - Jardim São Paulo, São Paulo - SP   <p>
             CEP: 02046-030 <p>
 Telefone: (11) 2973-5390  <p>
@@ -512,7 +512,7 @@ Zona: Norte.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubeatleticomooca.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubeatleticomooca.jpg" alt="Imagem de capa do card">
           <p>Endereço: R. Padre Raposo, 837 - Alto da Mooca, São Paulo - SP   <p>
             CEP: 03118-001 <p>
 Telefone: (11) 2076-3620  <p>
@@ -554,7 +554,7 @@ Zona: Zona Leste
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubeassociacao.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubeassociacao.jpg" alt="Imagem de capa do card">
           <p>Endereço: Praça Bento de Camargo Barros, 162 - Bom Retiro, São Paulo  <p>
 CEP: 01101-020  <p>
 Telefone: (11) 3228-1719 <p>
@@ -594,7 +594,7 @@ Zona: Centro <p>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubeindiano.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubeindiano.jpg" alt="Imagem de capa do card">
           <p>Endereço: Av. Francisco Nóbrega Barbosa, 411 - Parque Alves de Lima, São Paulo - SP <p>
             CEP: 04902-000  <p>
 Telefone: (11) 5890-3666 <p>
@@ -634,7 +634,7 @@ Zona: Sul
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubemesc.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubemesc.jpg" alt="Imagem de capa do card">
           <p>Endereço: : Av. Robert Kennedy, 2113 - Jardim Beatriz, São Bernardo do Campo - SP   <p>
             CEP: 09895-0050 <p>
 Telefone: (11) 4344-5566  <p>
@@ -674,7 +674,7 @@ Zona: Sudeste
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/clubeCE.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/clubeCE.jpg" alt="Imagem de capa do card">
           <p>Endereço:Av. Lins de Vasconcelos, 804 - Cambuci, São Paulo - SP    <p>
             CEP: 01515-000 <p>
 Telefone: (11) 3209-0995  <p>

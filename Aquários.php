@@ -72,7 +72,7 @@
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/AquarioSP.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/AquarioSP.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rua Huet Bacelar, 407 – Ipiranga  <p>
 CEP:   <p>
 Telefone: (11) 2273-5500 <p>
@@ -110,7 +110,7 @@ Zona: Sul. <p>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/AquarioSantos.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/AquarioSantos.jpg" alt="Imagem de capa do card">
           <p>Endereço: Av. Bartolomeu de Gusmão, s/n (Praça Ver. Luiz La Scalla) Ponta da Praia – Santos   <p>
             CEP:  <p>
 Telefone: (13) 3278-7830 <p>
@@ -149,7 +149,7 @@ Zona: Fora da Capital de São Paulo.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/AcquaMundo.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/AcquaMundo.jpg" alt="Imagem de capa do card">
           <p>Endereço: Av. Miguel Estéfano – Guarujá/SP  <p>
             CEP:  <p>
 Telefone: (13) 3398-3000 <p>
@@ -189,7 +189,7 @@ Zona: Fora da Capital de São Paulo.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/AquarioPiracicaba.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/AquarioPiracicaba.jpg" alt="Imagem de capa do card">
           <p>Endereço: Avenida Doutor Maurice Allain s/n Parque do Mirante, Piracicaba   <p>
             CEP:  <p>
 Telefone: (19) 3421-1566  <p>
@@ -233,7 +233,7 @@ Zona: Fora da Capital de São Paulo.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Ubatuba.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Ubatuba.jpg" alt="Imagem de capa do card">
           <p>Endereço: R. Antônio Atanázio, 273 - Itaguá, Ubatuba - SP <p>
 CEP: 11680-000  <p>
 Telefone: (12) 3832-6202 <p>
@@ -273,7 +273,7 @@ Zona: Fora da Capital de São Paulo. <p>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/AquarioUbatuba.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/AquarioUbatuba.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rua Guarani, 859 - Itaguá, Ubatuba - SP  <p>
             CEP: 11680-000 <p>
 Telefone: (12) 3834-1382  <p>
@@ -312,7 +312,7 @@ Zona: Fora da Capital de São Paulo.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/AquarioAparecida.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/AquarioAparecida.jpg" alt="Imagem de capa do card">
           <p>Endereço: Centro de Apoio ao Romeiro. Asa Oeste Aquario. Bairro: - Avenida Getúlio Vargas, R. Santa Rita, s/ n, Aparecida - SP  <p>
             CEP: 12570-000 <p>
             Telefone: (12) 3909–2977  <p>
