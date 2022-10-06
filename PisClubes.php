@@ -93,9 +93,9 @@ Zona: Leste <p>
           <img width="80" height="250" class="card-img-top" src="img/SescItaquera.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Piscinas – Sesc Itaquera</h5>
-            <br><br>
+            <br><br><br>
             <p class="card-text"> O local conta com ginásio poliesportivo, parque aquático, campo de futebol e muito mais! Há piscina em quase todas as unidades do Sesc, com exceção do Parque Dom Pedro II e Florêncio de Abreu. </p>
-            <br>
+            <br><br>
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo1">
     Veja mais!
   </button>
@@ -132,7 +132,7 @@ Zona: Leste
           <img width="80" height="250" class="card-img-top" src="img/Ceret2.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Recreativo CERET</h5>
-            <br><br>
+            <br><br><br>
             <p class="card-text">O CERET é um grande local onde se elaboram programações recreativas, educacionais, culturais, sociais e esportivas, localizado na Cidade de São Paulo, no distrito de Vila Formosa.</p>
             <br><br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo2">
@@ -216,7 +216,7 @@ Zona: Norte.
           <img width="80" height="250" class="card-img-top" src="img/Pacaembu.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Complexo Esportivo do Pacaembu</h5>
-            <br>
+            <br><br>
             <p class="card-text"> Além de um complexo esportivo, o estádio tem uma piscina aquecida que foi reformada no ano passado. A piscina fica aberta de terça a domingo até às 17h e os associados também têm acesso à quadra de futsal, sala de ginástica e de musculação.</p>
             <br>
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo4">

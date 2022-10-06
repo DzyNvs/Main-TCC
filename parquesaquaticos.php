@@ -49,7 +49,7 @@
           <img width="80" height="250" class="card-img-top" src="img/thermadoslaranjais.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Thermas dos Laranjais</h5>
-            <br>
+            <br><br>
             <p class="card-text"> O parque mais visitado do Brasil e da América Latina. Ele oferece mais de 55 atrações que vão desde complexos de toboáguas até uma montanha russa aquática.</p>
             <br>
         
@@ -90,7 +90,7 @@ Zona: Fora da Capital de São Paulo <p>
             <h5 class="card-title">Wet’n Wild</h5>
             <br><br>
             <p class="card-text">O parque aquático Wet’n Wild fica a cerca de uma hora de São Paulo e contém mais de 25 atrações para todas as idades. </p>
-            <br><br>
+            <br><br><br>
          
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo1">
     Veja mais!
@@ -170,7 +170,7 @@ Zona: Fora da Capital de São Paulo.
           <img width="80" height="250" class="card-img-top" src="img/Magic City.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Magic City </h5>
-            <br>
+            <br><br>
             <p class="card-text">O parque possui uma estrutura completa que oferece locais para shows, lojas de conveniência e restaurantes. Além de contar com atrações radicais e uma área de parque de diversões. </p>
             <br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo3">
@@ -217,7 +217,7 @@ Zona: Fora da Capital de São Paulo.
             <h5 class="card-title">Hot Beach</h5>
             <br>
             <p class="card-text"> Famoso por sua praia artificial, com areia branca, 14 tipos de onda, água quente e mais de 600 coqueiros, o parque Hot Beach fica a cerca de 430 km de São Paulo e pode te surpreender muito!</p>
-            <br>
+            <br><br>
         
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo4">
     Veja mais!
@@ -295,8 +295,9 @@ Zona: Fora da Capital de São Paulo
           <img width="80" height="250" class="card-img-top" src="img/Castelo Park Aquático.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Castelo Park Aquático </h5>
-            <p class="card-text"> Parque aquático com ótima infraestrutura e que fica a cerca de 150 km da capital paulista. Ele se destaca pela economia, já que o estacionamento é gratuito e tem um preço relativamente baixo. </p>
             <br>
+            <p class="card-text"> Parque aquático com ótima infraestrutura e que fica a cerca de 150 km da capital paulista. Ele se destaca pela economia, já que o estacionamento é gratuito e tem um preço relativamente baixo. </p>
+            <br><br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo6">
     Veja mais!
   </button>

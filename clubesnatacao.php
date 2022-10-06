@@ -54,7 +54,7 @@
           <img width="80" height="250" class="card-img-top" src="img/clubebosque.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube do Bosque</h5>
-            <br>
+            <br><br>
             <p class="card-text"> Um dos mais completos e conceituados clubes brasileiros. Além de contribuir com a formação de atletas, é também um importante polo de cultura, esporte e lazer da cidade de São Paulo.</p>
             <br>
         
@@ -92,7 +92,7 @@ Zona: Sul <p>
           <img width="80" height="250" class="card-img-top" src="img/clubehelvetia.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Esportivo Helvetia</h5>
-            <br>
+            <br><br>
             <p class="card-text">O Clube Esportivo Helvetia possui diversos espaços para locação que acomodam eventos sociais e corporativos com estrutura e segurança. </p>
             <br><br>
          
@@ -217,7 +217,7 @@ Zona: Zona Leste
             <h5 class="card-title">Esporte Clube Sírio</h5>
             <br><br>
             <p class="card-text"> O Esporte Clube Sírio oferece o que há de mais moderno em matéria de lazer, cultura e esporte e, ao mesmo tempo, cultua a preservação das tradições e dos costumes árabes no Brasil.</p>
-            <br>
+            <br><br>
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo5">
     Veja mais!
   </button>
@@ -253,9 +253,9 @@ Zona: Sul <p>
           <img width="80" height="250" class="card-img-top" src="img/clubeypiranga.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Atlético Ypiranga</h5>
-            <br>
+            <br><br>
             <p class="card-text">Com amplas opções esportivas e de lazer, além de uma longa trajetória, o Clube Atlético Ypiranga pode se orgulhar de ser grande referência esportiva e social na cidade de São Paulo. </p>
-            <br>
+            <br><br>
 
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo6">
     Veja mais!
@@ -295,7 +295,7 @@ Zona: Zona Sul
             <h5 class="card-title">R.U.V.E. Recreativo União Vila Esperança </h5>
             <br>
             <p class="card-text">Sendo uma associação sem fins lucrativos, o RUVE oferece à preços acessíveis a infraestrutura de um clube de elite. Contendo quadra poliesportiva, piscina coberta e muito mais! </p>
-            <br>
+            <br><br>
 
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo7">
     Veja mais!
@@ -454,7 +454,7 @@ Zona: Norte
           <img width="80" height="250" class="card-img-top" src="img/clubeescolasp.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Escola Jardim SP</h5>
-            <br>
+            <br><br>
             <p class="card-text">Centro que oferece atividades esportivas gratuitas de esporte e lazer. Possuindo uma área que conta com piscina, campo de futebol, quadras poliesportivas e muito mais!</p>
             <br>
 
@@ -537,7 +537,7 @@ Zona: Zona Leste
           <img width="80" height="250" class="card-img-top" src="img/clubeassociacao.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Associação Atlética São Paulo</h5>
-            <br>
+            <br><br>
             <p class="card-text"> O clube oferece diversas atividades e áreas de lazer para relaxar. Ginásio poliesportivo, parque aquático e sauna são alguns exemplos. </p>
             <br><br>
 
@@ -576,9 +576,9 @@ Zona: Centro <p>
           <img width="80" height="250" class="card-img-top" src="img/clubeindiano.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Atlético Indiano</h5>
-            <br>
+            <br><br>
             <p class="card-text">O espaço oferece tendências inovadoras de lazer, esporte e diversão, ampla estrutura e atividade para toda a família. Tudo isso em uma área verde sem igual. </p>
-            <br>
+            <br><br>
 
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo14">
     Veja mais!
@@ -657,7 +657,7 @@ Zona: Sudeste
           <img width="80" height="250" class="card-img-top" src="img/clubeCE.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">C.E. Rubens Pecce Lordello  </h5>
-            <br>
+            <br><br>
             <p class="card-text">O C.E. Rubens Pecce Lordello é uma entidade Municipal com atividades esportivas gratuitas e lazer garantido para a população.</p>
             <br><br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo16">

@@ -93,7 +93,7 @@ Zona: Sul. <p>
           <img width="80" height="250" class="card-img-top" src="img/AquarioSantos.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Aquário Municipal de Santos </h5>
-            <br>
+            <br><br>
             <p class="card-text">Famoso por sua grande variedade de espécies, o Aquário Municipal de Santos vai te deixar de boca aberta! </p>
             <br><br>
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo1">
@@ -172,7 +172,7 @@ Zona: Fora da Capital de São Paulo.
           <img width="80" height="250" class="card-img-top" src="img/AquarioPiracicaba.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Aquário Municipal de Piracicaba </h5>
-            <br>
+            <br><br>
             <p class="card-text">Inaugurado em setembro de 2012, está instalado no Parque Mirante às margens do rio Piracicaba e é mais uma opção turística para levar as crianças.</p>
             <br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo3">
@@ -216,7 +216,7 @@ Zona: Fora da Capital de São Paulo.
           <img width="80" height="250" class="card-img-top" src="img/Ubatuba.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Projeto Tamar – Ubatuba</h5>
-            <br>
+            <br><br>
             <p class="card-text"> Inaugurada em 1991, a base da Fundação Projeto Tamar de Ubatuba tem como principal objetivo mitigar os efeitos predatórios da pesca sobre as tartarugas. </p>
             <br>
         
@@ -295,7 +295,7 @@ Zona: Fora da Capital de São Paulo.
           <img width="80" height="250" class="card-img-top" src="img/AquarioAparecida.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Aquário de Aparecida</h5>
-            <br>
+            <br><br>
             <p class="card-text"> O colorido das dezenas de espécies encanta os visitantes que podem apreciar diversos tanques com espécies marinhas, peixes de água doce e uma piscina de tubarões.</p>
             <br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo6">

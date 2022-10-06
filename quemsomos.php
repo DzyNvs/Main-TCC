@@ -49,7 +49,7 @@
             </div>
             <div class="col-md-3">
               <div class="card">
-                <img src="img/escritorio1.jpg" class="card-img-top" alt="Imagem de Perfil 1">
+                <img height="175" src="img/andré.jpg" class="card-img-top" alt="Imagem de Perfil 1">
                 <div class="card-body">
                   <h5 class="card-title">André Neves</h5>
                   
@@ -67,7 +67,7 @@
             </div>
             <div class="col-md-3">
               <div class="card">
-                <img src="img/escritorio1.jpg" class="card-img-top" alt="Imagem de Perfil 3">
+                <img height="175" src="img/kratos.jpg" class="card-img-top" alt="Imagem de Perfil 3">
                 <div class="card-body">
                   <h5 class="card-title">Diego Eusébio</h5>
                   
