@@ -72,7 +72,7 @@ Existem duas piscinas para crianças menores onde as mães e pais podem curtir c
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Ceret.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Ceret.jpg" alt="Imagem de capa do card">
           <p>Endereço: Vila Reg. Feijó, São Paulo - SP <p>
 CEP: 03338-050  <p>
 Telefone: (11) 2672-1240 <p>
@@ -93,9 +93,9 @@ Zona: Leste <p>
           <img width="80" height="250" class="card-img-top" src="img/SescItaquera.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Piscinas – Sesc Itaquera</h5>
-            <br><br>
+            <br><br><br>
             <p class="card-text"> O local conta com ginásio poliesportivo, parque aquático, campo de futebol e muito mais! Há piscina em quase todas as unidades do Sesc, com exceção do Parque Dom Pedro II e Florêncio de Abreu. </p>
-            <br>
+            <br><br>
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo1">
     Veja mais!
   </button>
@@ -110,7 +110,7 @@ Zona: Leste <p>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/SescItaquera.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/SescItaquera.jpg" alt="Imagem de capa do card">
           <p>Endereço: Av. Fernando do Espírito Santo Alves de Mattos, 1000 - Itaquera, São Paulo - SP   <p>
             CEP: 08265-045  <p>
 Telefone: (11) 2523-9200  <p>
@@ -132,7 +132,7 @@ Zona: Leste
           <img width="80" height="250" class="card-img-top" src="img/Ceret2.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Clube Recreativo CERET</h5>
-            <br><br>
+            <br><br><br>
             <p class="card-text">O CERET é um grande local onde se elaboram programações recreativas, educacionais, culturais, sociais e esportivas, localizado na Cidade de São Paulo, no distrito de Vila Formosa.</p>
             <br><br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo2">
@@ -149,7 +149,7 @@ Zona: Leste
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Ceret2.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Ceret2.jpg" alt="Imagem de capa do card">
           <p>Endereço: R. Canuto Abreu, s/n - Jardim Analia Franco, São Paulo - SP  <p>
             CEP: 03336-060 <p>
 Telefone: (11) 2672-1240 <p>
@@ -189,7 +189,7 @@ Zona: Leste.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Trindade.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Trindade.jpg" alt="Imagem de capa do card">
           <p>Endereço: R. Viri, 425 - Jardim São Paulo, São Paulo - SP   <p>
             CEP: 02046-030 <p>
 Telefone: (11) 2973-5390  <p>
@@ -216,7 +216,7 @@ Zona: Norte.
           <img width="80" height="250" class="card-img-top" src="img/Pacaembu.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Complexo Esportivo do Pacaembu</h5>
-            <br>
+            <br><br>
             <p class="card-text"> Além de um complexo esportivo, o estádio tem uma piscina aquecida que foi reformada no ano passado. A piscina fica aberta de terça a domingo até às 17h e os associados também têm acesso à quadra de futsal, sala de ginástica e de musculação.</p>
             <br>
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo4">
@@ -232,7 +232,7 @@ Zona: Norte.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Pacaembu.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Pacaembu.jpg" alt="Imagem de capa do card">
           <p>Endereço: Praça Charles Miller, s/n - Pacaembu, São Paulo - SP <p>
 CEP: 01246-020  <p>
 Telefone: (11) 3664-4650 <p>
@@ -270,7 +270,7 @@ Zona: Centro. <p>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/24Maio.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/24Maio.jpg" alt="Imagem de capa do card">
           <p>Endereço: R. 24 de Maio, 109 - República, São Paulo - SP   <p>
             CEP: 01041-001  <p>
 Telefone: (11) 3350-6300  <p>
@@ -309,7 +309,7 @@ Zona: Centro.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/IbirapueraDes.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/IbirapueraDes.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rua Pedro de Toledo, 1591 - Vila Clementino, São Paulo – SP  <p>
             CEP: 04039-034  <p>
 Telefone: (11) 5574-5045  <p>

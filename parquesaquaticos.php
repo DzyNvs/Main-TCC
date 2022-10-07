@@ -49,7 +49,7 @@
           <img width="80" height="250" class="card-img-top" src="img/thermadoslaranjais.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Thermas dos Laranjais</h5>
-            <br>
+            <br><br>
             <p class="card-text"> O parque mais visitado do Brasil e da América Latina. Ele oferece mais de 55 atrações que vão desde complexos de toboáguas até uma montanha russa aquática.</p>
             <br>
         
@@ -66,7 +66,7 @@
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/therma dos laranjais 2.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/therma dos laranjais 2.jpg" alt="Imagem de capa do card">
           <p>Endereço: Avenida do Folclore, 1543 – Jardim Santa Efigênia, Olímpia/SP – <p>
 CEP: 15405-014  <p>
 Telefone: (17) 3279-3500 <p>
@@ -90,7 +90,7 @@ Zona: Fora da Capital de São Paulo <p>
             <h5 class="card-title">Wet’n Wild</h5>
             <br><br>
             <p class="card-text">O parque aquático Wet’n Wild fica a cerca de uma hora de São Paulo e contém mais de 25 atrações para todas as idades. </p>
-            <br><br>
+            <br><br><br>
          
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo1">
     Veja mais!
@@ -106,7 +106,7 @@ Zona: Fora da Capital de São Paulo <p>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Wet’n Wild2.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Wet’n Wild2.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rodovia dos Bandeirantes, s/n – Km 72 – Zona Rural, Itupeva/SP –   <p>
             CEP: 13295-000  <p>
 Telefone: (11) 4496-8000  <p>
@@ -146,7 +146,7 @@ Zona: Zona Rural.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Thermas do Vale.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Thermas do Vale.jpg" alt="Imagem de capa do card">
           <p>Endereço: Av. Linneu de Moura, 205 – Urbanova, São José dos Campos/SP    <p>
             CEP: 12244-380 <p>
 Telefone: (12) 2136-8888  <p>
@@ -170,7 +170,7 @@ Zona: Fora da Capital de São Paulo.
           <img width="80" height="250" class="card-img-top" src="img/Magic City.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Magic City </h5>
-            <br>
+            <br><br>
             <p class="card-text">O parque possui uma estrutura completa que oferece locais para shows, lojas de conveniência e restaurantes. Além de contar com atrações radicais e uma área de parque de diversões. </p>
             <br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo3">
@@ -187,7 +187,7 @@ Zona: Fora da Capital de São Paulo.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Magic City.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Magic City.jpg" alt="Imagem de capa do card">
           <p>Endereço: Estrada do Pavoeiro, 8.870 – Índio Tibiriçá, Km 58,5 – Suzano/SP  –   <p>
             CEP: 08635-445  <p>
 Telefone: (11) 4765-5800   <p>
@@ -217,7 +217,7 @@ Zona: Fora da Capital de São Paulo.
             <h5 class="card-title">Hot Beach</h5>
             <br>
             <p class="card-text"> Famoso por sua praia artificial, com areia branca, 14 tipos de onda, água quente e mais de 600 coqueiros, o parque Hot Beach fica a cerca de 430 km de São Paulo e pode te surpreender muito!</p>
-            <br>
+            <br><br>
         
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo4">
     Veja mais!
@@ -232,7 +232,7 @@ Zona: Fora da Capital de São Paulo.
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Hot Beach.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Hot Beach.jpg" alt="Imagem de capa do card">
           <p>Endereço: Av. Governador Adhemar Pereira de Barros, 1260 – Olímpia/SP <p>
 CEP: 15406-255 <p>
 Telefone: (17) 3279-1111  <p>
@@ -272,7 +272,7 @@ Zona: Fora da Capital de São Paulo <p>
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Thermas Water Park.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Thermas Water Park.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rod. SP 304 – Km 189 – Fazenda Limoeiro, s/nº – São Pedro/SP  <p>
             CEP: 13520-000  <p>
 Telefone: 4000-2998 <p>
@@ -295,8 +295,9 @@ Zona: Fora da Capital de São Paulo
           <img width="80" height="250" class="card-img-top" src="img/Castelo Park Aquático.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">Castelo Park Aquático </h5>
-            <p class="card-text"> Parque aquático com ótima infraestrutura e que fica a cerca de 150 km da capital paulista. Ele se destaca pela economia, já que o estacionamento é gratuito e tem um preço relativamente baixo. </p>
             <br>
+            <p class="card-text"> Parque aquático com ótima infraestrutura e que fica a cerca de 150 km da capital paulista. Ele se destaca pela economia, já que o estacionamento é gratuito e tem um preço relativamente baixo. </p>
+            <br><br>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo6">
     Veja mais!
   </button>
@@ -311,7 +312,7 @@ Zona: Fora da Capital de São Paulo
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Castelo Park Aquático.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Castelo Park Aquático.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rodovia SP 143, km 3,5 – Cesário Lange/SP  <p>
             CEP: 18285-000  <p>
 Telefone: (15) 99703-5711  <p>
@@ -352,7 +353,7 @@ Zona: Fora da Capital de São Paulo
           </button>
         </div>
         <div class="modal-body">
-          <img class="card-img-top" src="img/Acqualinda.jpg" alt="Imagem de capa do card">
+          <img height="300" class="card-img-top" src="img/Acqualinda.jpg" alt="Imagem de capa do card">
           <p>Endereço: Rua Guarani, 859 - Itaguá, Ubatuba - SP   <p>
             CEP: 11680-000  <p>
 Telefone: (12) 3834-1382  <p>
