@@ -188,11 +188,11 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
         </div>
         <a class="carousel-control-prev" href="#mainSlider" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
+          <span class="sr-only">Anterior</span>
         </a>
         <a class="carousel-control-next" href="#mainSlider" role="button" data-slide="next">
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
+          <span class="sr-only">Próximo</span>
         </a>
       </div>
       <hr>
