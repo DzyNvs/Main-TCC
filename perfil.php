@@ -36,7 +36,7 @@
                                 ?>
                                 <a href="alteraremail.php">Alterar email</a>
                                 <a href="alterarsenha.php">Alterar senha</a>
-                                <a href =""> Favoritos</a>
+                              
                                 <a href="logout.php">Logout</a>
                                
                             </div>

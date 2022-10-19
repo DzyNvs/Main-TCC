@@ -21,7 +21,7 @@
 	  <div class="container">
 	  <div class="row featurette">
             <div class="col-md-7">
-                <h2 class="featurette-heading">Quem Somos</h2>
+                <h2 class="featurette-heading">Objetivos do Projeto</h2>
                 <p class="lead">O projeto SPSUBMERSO é um site voltado ao mundo submarino, tendo como foco a região da cidade de São Paulo, nele se é 
                 possivel encontrar informações sobre diversas atividades referentes a esse maravilhoso mundo, que vão desde clubes e 
                 atividades aquáticas como natação, até zoológicos com foco na vida marinha.

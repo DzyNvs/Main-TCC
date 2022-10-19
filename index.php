@@ -109,28 +109,9 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
       </div>
       <hr>
  
-      <section class="teste"> 
-
-
-      <h2 font-weight="700" color="darkblue" class="h2-footer text-center">LOCAIS MAIS BEM AVALIADOS </h2>
-
-      <div class="card" style="width: 18rem;">
-  <div class="card-body">
-    <h5 class="card-title">  Clube Recreativo CERET </h5>
-    <h6 class="card-subtitle mb-2 text-muted"> 4.6/5 -- 18,739 Avaliações </h6>
-    <p class="card-text">"Clubes de natações super limpos e ambiente muito agrádavel, recomendo muito!" </p>
-    <a href="http://www.ceret.com.br" class="card-link"> Site </a>
-    <a href="https://www.google.com/search?q=clube+recreativo+ceret&sxsrf=ALiCzsZEgtce9yCniB0c-MNCCjMOjVk4pA%3A1662839191195&ei=l-kcY8bKC8_G5OUPzZyAiAQ&gs_ssp=eJzj4tVP1zc0TDIzKjYwMs81YLRSNaiwNElONU21MDBKS04yMTa2tAIKJSalGhgkJpsYGhsnmqaZeIkl55QmpSoUpSYXpSaWZJblKySnFqWWAABO3Rd1&oq=clube+rec&gs_lcp=Cgdnd3Mtd2l6EAMYADIKCC4QxwEQrwEQQzIFCAAQgAQyCwguEIAEEMcBEK8BMgsILhCABBDHARCvATILCC4QgAQQxwEQrwEyEQguEIAEELEDEIMBEMcBEK8BMgsILhCABBDHARCvATILCC4QgAQQxwEQrwEyBQgAEIAEMgsILhCABBDHARCvAToKCAAQRxDWBBCwAzoKCC4QxwEQrwEQJzoLCAAQgAQQsQMQgwE6CAguEIAEELEDOggILhCxAxCDAToRCC4QgAQQsQMQgwEQxwEQ0QM6BAgAEEM6CwguEIAEELEDEIMBOggIABCABBCxAzoHCCMQ6gIQJzoNCC4QxwEQrwEQ6gIQJzoNCC4QxwEQ0QMQ6gIQJzoHCAAQsQMQQzoUCC4QgAQQsQMQgwEQxwEQrwEQ1AI6BQguEIAESgQIQRgASgQIRhgAUJAmWJBEYOxNaApwAXgAgAGrAYgBuwuSAQQwLjEwmAEAoAEBsAEKyAEIwAEB&sclient=gws-wiz#lrd=0x94ce5e802fcb4339:0x9abe00ac4133a5f4,1,,," class="card-link">Mais Avaliações</a>
-  </div>
-
-</div> 
-
- 
-
-   
-<br> 
-
-</section> 
+      <br>
+      <br>
+      <br>
 
       </div>
 
@@ -197,15 +178,7 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
       </div>
       <hr>
 
-      <div class="col-11 m-auto">
-      <h2 font-weight="700" color="darkblue" class="h2-footer text-center">QUEM SOMOS?</h2>
-          <p class="p-footer text-center">Nós do SP SUBMERSO desenvolvemos esse site com o intuito de inserir mais pessoas no ambiente marinho. Dessa forma o site
-disponibiliza informações e outros detalhes sobre clubes de natação, aquários, parques
-aquáticos e pontos turísticos que envolvam água em geral. Visamos atender principalmente a demanda de atletas, que buscam uma nova forma de se exercitar e que através do nosso site podem se
-inscrever em clubes de natação, turistas que querem visitar aquários para conhecer um
-pouco mais da fauna nacional, além de pais que desejam levar seus filhos para visitar
-parques aquáticos ou inscrevê-los em clubes de natação para se exercitarem.</p>
-      </div>
+      
 
       
 
