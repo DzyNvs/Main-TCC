@@ -10,6 +10,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&family=Raleway:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;0,800;0,900;1,800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style-index.css">
 <body>
 
@@ -115,7 +118,7 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
 
       </div>
 
-      <h2 font-weight="700" color="darkblue" class="h2-footer text-center">LOCAIS COM PREÇOS MAIS ACESSIVEIS </h2>
+      <h2 font-weight="700" color="darkblue" class="h2-footer text-center">LOCAIS COM PREÇOS MAIS ACESSÍVEIS </h2>
 
       <div class="container-fluid">
       <!-- slider -->
@@ -129,40 +132,40 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
           <div class="carousel-item active">
             <img src="img/AquarioSantos.jpg" class="d-block w-100" alt="Projetos de e-commerce">
             <div class="carousel-caption d-md-block">
-              <h2>Aquário Municipal de Santos</h5>
-              <p>Ingressos à partir de R$:8. </p>
+              <h4 class="h4-darkblue">Aquário Municipal de Santos</h4>
+              <p>Ingressos à partir de R$8 </p>
               <a href="https://www.turismosantos.com.br/?q=pt-br/content/aqu%C3%A1rio" class="main-btn">Site</a>
             </div>
           </div>
           <div class="carousel-item">
             <img src="img/AquarioAparecida.jpg" class="d-block w-100" alt="Engenharia de software">
             <div class="carousel-caption d-md-block">
-              <h2>Aquário de Aparecida </h5>
-              <p>Ingressos à partir de R$:10. </p>
+              <h4>Aquário de Aparecida </h4>
+              <p>Ingressos à partir de R$10 </p>
               <a href="https://www.a12.com/centro-de-apoio-ao-romeiro/aquario" class="main-btn">Entre em contato</a>
             </div>
           </div>
           <div class="carousel-item">
             <img src="img/Magic City.jpg" class="d-block w-100" alt="Manutenção em software">
             <div class="carousel-caption d-md-block">
-              <h2>Magic City</h5>
-              <p>Ingressos à paritr de R$:29,90.</p>
+              <h4>Magic City</h4>
+              <p color="white">Ingressos à partir de R$29,90</p>
               <a href="https://www.magiccity.com.br/" class="main-btn">Site</a>
             </div>
           </div>
           <div class="carousel-item">
             <img src="img/SescItaquera.jpg" class="d-block w-100" alt="Manutenção em software">
             <div class="carousel-caption d-md-block">
-              <h2>Piscinas – Sesc Itaquera</h5>
-              <p>Ingressos à paritr de R$:12,00 (credencial plena) e R$:24,00 (visitantes).</p>
+              <h4 class="h4-darkblue">Piscinas – Sesc Itaquera</h4>
+              <p>Ingressos à partir de R$12,00 (credencial plena) e R$24,00 (visitantes)</p>
               <a href="https://portal.sescsp.org.br/online/artigo/8680_DICAS+PARA+APROVEITAR+O+SEU+DIA+NO+SESC+ITAQUERA#:~:text=Valores%20v%C3%A1lidos%20para%20o%20dia,24%2C00%20(visitantes)." class="main-btn">Site</a>
             </div>
           </div>
           <div class="carousel-item">
             <img src="img/piscinas.jpg" class="d-block w-100" alt="Manutenção em software">
             <div class="carousel-caption d-md-block">
-              <h2>Piscina do Ceret</h5>
-              <p>Entrada gratuita (com a apresentação da carteirinha).</p>
+              <h4 class="h4-darkblue">Piscina do Ceret</h4>
+              <p>Entrada gratuita (com a apresentação da carteirinha)</p>
               <a href="https://www.ceret.com.br/ceret-piscina/" class="main-btn">Site</a>
             </div>
           </div>

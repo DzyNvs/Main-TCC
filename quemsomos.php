@@ -35,7 +35,7 @@
                 um local de filtro selecionando os melhores e mais bem avaliados estabelecimentos. </p>
             </div>
             <div class="col-md-5">
-                <img class="featurette-image img-fluid rounded-top mx-auto" src="img/escritorio1.jpg" 
+                <img class="featurette-image img-fluid rounded-top mx-auto" src="img/quem somos.jpg" 
                     >
             </div>
         </div>
@@ -47,15 +47,16 @@
             <div class="col-12">
               <h3 class="main-title">Nosso time</h3>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-12">
               <div class="card">
-                <img height="175" src="img/andré.jpg" class="card-img-top" alt="Imagem de Perfil 1">
+                <img height="450" src="img/nosso time.jpg" class="card-img-top" alt="Imagem de Perfil 1">
                 <div class="card-body">
-                  <h5 class="card-title">André Neves</h5>
+                  <h5 class="card-title">André Neves, Daniel Henrique, Diego Eusébio, Fabrício Souza, Felipe Bonelli e Leonardo Alves </h5>
                   
                 </div>
               </div>
             </div>
+            <!--
             <div class="col-md-3">
               <div class="card">
                 <img src="img/escritorio1.jpg" class="card-img-top" alt="Imagem de Perfil 2">
@@ -101,6 +102,7 @@
                 </div>
               </div>
             </div>
+-->
           </div>
         </div>
       </div>

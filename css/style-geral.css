@@ -58,6 +58,7 @@ a:hover{
 
 p.card-text{
     text-align: center;
+    font-weight: bold;
 }
 
 h5.card-title{

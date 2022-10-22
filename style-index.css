@@ -5,12 +5,27 @@
 }
 
 h2{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: darkblue;
+    font-weight: bold;
 }
 
 body{
     background: linear-gradient(to right, rgb(255, 255, 255), lightblue);
+}
+
+h4{
+  font-family: 'Sora', sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: white;
+}
+
+.h4-darkblue{
+  font-family: 'Sora', sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: darkblue;
 }
 
 h5{
@@ -21,6 +36,7 @@ h5{
 
 p{
     font-family: 'Poppins', sans-serif;
+    font-weight: bold;
     color: black;
 }
 
@@ -78,9 +94,18 @@ a:hover{
   
   #mainSlider .carousel-caption p {
     font-size: 22px;
-    font-weight: 300;
+    font-weight: 700;
     margin-bottom: 100px;
-    color: #FFF;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+  }
+
+  #mainSlider .carousel-caption p:hover{
+    text-decoration: underline;
+    font-weight: 900;
+    background: linear-gradient(to right, rgba(18, 168, 238, 0.6), lightblue);
+    cursor: pointer;
   }
   
   .main-btn {
@@ -93,11 +118,13 @@ a:hover{
     border-radius: 30px;
     border: 3px solid transparent;
     transition: .5s;
+    font-weight: bold;
   }
   
   .main-btn:hover {
     text-decoration: none;
     color: #FFF;
+    font-weight: bold;
     background-color: transparent;
     border-color: #3EC1D5;
   }
@@ -105,23 +132,3 @@ a:hover{
   .carousel-indicators .active {
     background-color: #65DAF9;
   }
-
-
-
-/*
-.card.aquarios{
-    background: linear-gradient(to right, #3E8AFF, #BBDEFF);
-}
-
-.card.aquatico{
-    background: linear-gradient(to right, rgb(91, 240, 215), rgb(170, 252, 221));
-}
-
-.card.piscinas{
-    background: linear-gradient(to right, #FE5F8F, #FFC7D9);
-}
-
-.card.natacao{
-    background: linear-gradient(to right, #9F66FF, #DFCBFF);
-}
-*/
