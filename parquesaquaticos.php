@@ -374,22 +374,7 @@ Zona: Fora da Capital de São Paulo
         
       </div>
       <hr>
-      <div class="col-11 m-auto">
-          <h3 class="text-center">Parques mais baratos </h3>
-          <p class="text-center"> Magic City -- A partir de R$ 29,90 
-          <p class="text-center">  Castelo Park Aquático -- A partir de R$ 30 
-          <p class="text-center"> Thermas Water Park -- A partir de R$ 59
-</p>
-
-
-      </div>
-      <hr>
-      <div class="col-11 m-auto">
-          <h3 class="text-center">Parques mais próximos da capital  </h3>
-          <p class="text-center"> Wet’n Wild -- Rodovia dos Bandeirantes, s/n – Km 72 – Zona Rural, Itupeva/SP – CEP: 13295-000.
-          <p class="text-center">  Magic City -- Estrada do Pavoeiro, 8.870 – Índio Tibiriçá, Km 58,5 – Suzano/SP – CEP: 08635-445
-          <p class="text-center"> Thermas da Mata  -- Estrada Morro Grande, 3000 – Jardim Isis, Cotia – SP, 06719-500.
-</p>
+      
 
 
       </div>
