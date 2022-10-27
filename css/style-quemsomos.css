@@ -26,3 +26,80 @@ body{
 .card{
     margin-top:30px;
 }
+
+#apply-area{
+height: 500px;
+
+}
+
+#apply-area .container-fluid, #apply-area .row{
+
+height: 100%;
+}
+
+#apply-area .apply-box{
+text-align: center;
+padding: 70px 50px;
+
+}
+
+#company-img{
+    background-image: url('../img/nossotime.jpg');
+    background-size: cover;
+    height: 100%;
+}
+
+#patern-img h4, #patern-img p{
+color: white;
+
+}
+
+#patern-img h4{
+
+    margin-top: 8%;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+#patern-img p{
+
+margin-bottom: 20px;
+
+}
+
+
+/* responsive */
+@media(max-width: 768px) {
+  
+    /* geral */
+    .container {
+      padding: 20px 0;
+    }
+    
+
+  
+    /* apply */
+    #apply-area .apply-box {
+      padding: 50px 25px;
+    }
+  
+   
+  
+  }
+  
+  
+  @media(max-width: 767px) {
+  
+   
+    /* apply */
+    #apply-area {
+      height: auto;
+    }
+  
+    #company-img {
+      display: none;
+    }
+  
+    
+  
+  }

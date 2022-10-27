@@ -12,6 +12,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="css/style-quemsomos.css">
+    <script src="https://cdn.jsdelivr.net/parallax.js/1.4.2/parallax.min.js"></script>
 		<!-- CSS only -->
 
  
@@ -40,7 +41,33 @@
             </div>
         </div>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+  <!--Nosso Time -->
+
+<div id="apply-area">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6 apply-box" id="company-img"></div>
+      <div class="col-md-6 apply-box" id="patter-img">
+  <h4 style="color:white">
+    Titulo da aba
+</h4>
+<p style="color:white">
+orem ipsum dolor sit amet, consectetur adipiscing elit. Mauris metus libero, dapibus rhoncus arcu ut, viverra pretium diam. Donec et porta massa. Fusce vel sem id erat finibus vestibulum. Nulla imperdiet interdum lorem. Proin elementum neque vel augue feugiat commodo. In hac habitasse platea dictumst. Proin scelerisque, risus in congue fringilla, mi nibh pharetra lacus, quis facilisis sem eros ac libero. Nulla quis neque nec arcu efficitur ultrices sit amet vitae nunc. Nam non luctus velit. Etiam id nisl euismod, euismod erat a, eleifend felis. Cras vel lorem eu massa vulputate pharetra. In vitae venenatis neque, et pulvinar lectus. Nullam vestibulum nisi vitae sem convallis accumsan. Sed aliquet arcu odio, nec tincidunt elit semper non. Morbi eget accumsan lectus, tempor efficitur neque. Morbi ac gravida ligula.
+</p>
+
+</div>
+
+
+
+
+<!-- 
 <div id="team-area">
         <div class="container">
           <div class="row">
@@ -55,7 +82,7 @@
                   
                 </div>
               </div>
-            </div>
+            </div>-->
             <!--
             <div class="col-md-3">
               <div class="card">
@@ -106,9 +133,14 @@
           </div>
         </div>
       </div>
-
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
 </body>
-
+<script src="script-parallax.js"></script>
 <?php
 include("rodape.php")
 ?>
