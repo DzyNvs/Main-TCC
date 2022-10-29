@@ -28,13 +28,13 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img height="500" src="img/PacaembuDestaque.jpg" class="d-block w-100" alt="...">
+            <img height="500" src="img/itaquera2.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
             <img  height="500" src="img/Sesc24Maio.jpg" class="d-block w-100"  alt="...">
           </div>
           <div class="carousel-item">
-            <img  height="500" src="img/Ibirapuera.jpg" class="d-block w-100" alt="...">
+            <img  height="500" src="img/Ibirapuera2.jpg" class="d-block w-100" alt="...">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

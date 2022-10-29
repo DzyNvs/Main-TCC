@@ -33,7 +33,7 @@
             <img height="500" src="img/AquarioSPdestaque.jpg" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img  height="500" src="img/AquarioUbatubadestaque.jpg" class="d-block w-100"  alt="...">
+            <img  height="500" src="img/acquadestaques2.jpg" class="d-block w-100"  alt="...">
           </div>
           <div class="carousel-item">
             <img height="500" src="img/AcquaDestaques.jpg" class="d-block w-100" alt="...">

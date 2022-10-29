@@ -28,13 +28,13 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img  height="500" src="img/clubebosque.jpg" class="d-block w-100" alt="...">
+            <img  height="500" src="img/clubebosque2.jpg" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img height="500" src="img/clubehelvetia.jpg" class="d-block w-100"  alt="...">
+            <img height="500" src="img/clubehelvetia2.jpg" class="d-block w-100"  alt="...">
           </div>
           <div class="carousel-item">
-            <img height="500" src="img/clubeesperia.jpg" class="d-block w-100" alt="...">
+            <img height="500" src="img/ypiranga3..png" class="d-block w-100" alt="...">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
