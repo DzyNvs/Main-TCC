@@ -34,7 +34,7 @@
             <img height="500" src="img/clubehelvetia2.jpg" class="d-block w-100"  alt="...">
           </div>
           <div class="carousel-item">
-            <img height="500" src="img/ypiranga3..png" class="d-block w-100" alt="...">
+            <img height="500" src="img/trevisscot.jpg" class="d-block w-100" alt="...">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
