@@ -29,6 +29,13 @@
           if (isset($_GET['erro'])) { if ($_GET['erro'] == "informacoesinvalidas") { echo "A senha ou e-mail está incorreta!"; }}
   ?>  
           </h4>
+          <h1>
+          <?php
+          if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "registro") { 
+			echo "Seu registro foi efetuado no site!"; }}
+			
+  	?>  
+    </h1>
         <label class="login__label">
           <span>E-mail do usuário</span>
           <input type="text" name="emailuser" class="input">
