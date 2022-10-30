@@ -103,8 +103,8 @@
 <script>
     function concluido(){
       swal({
-  title: "Good job!",
-  text: "You clicked the button!",
+  title: "Cadastro realizado",
+  text: "Seja Bem-vindo!",
   icon: "success",
 });
 
