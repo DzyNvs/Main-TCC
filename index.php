@@ -131,7 +131,7 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img src="img/AquarioSantos.jpg" class="d-block w-100" alt="Projetos de e-commerce">
-            <div class="carousel-caption d-md-block">
+            <div class="carousel-caption d-md-block" >
               <h4 class="h4-darkblue">Aquário Municipal de Santos</h4>
               <p>Ingressos à partir de R$8 </p>
               <a href="https://www.turismosantos.com.br/?q=pt-br/content/aqu%C3%A1rio" class="main-btn">Site</a>
@@ -180,10 +180,6 @@ $image_rand3 = "curiosidades_imagens/curiosidade".$rand3.".jpg"
         </a>
       </div>
       <hr>
-
-      
-
-      
 
 <script type="text/javascript" src="vanilla-tilt.js"></script>
 <script type="text/javascript">
