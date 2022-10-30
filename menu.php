@@ -43,6 +43,9 @@
       <li class="nav-item active">
         <a class="nav-link" href="quemsomos.php"> Quem Somos </a>
       </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="avaliar.php"> Avaliações </a>
+      </li>
     </ul>
     
 
