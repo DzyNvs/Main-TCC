@@ -96,7 +96,7 @@
                     <div class="nomelugar">
                     <label for="IdLugar">Selecione o local: </label> 
                     <?php
-                 echo "<select name='txnomeavaliar'>";
+                 echo "<select name='txnomeavaliar' required>";
                   $stmt = $pdo->prepare("Select * from tbLugares ");
                  $stmt ->execute();
                 echo "<option selected disabled value=''> Selecione uma Localidade </option>";
