@@ -126,14 +126,42 @@ $stmt ->execute();
 
 while ($row = $stmt ->fetch(PDO::FETCH_BOTH)) {
     $count = $stmt->rowCount();
-    $cincoes = $row[1]==5;
-    
-    echo "<h1> $cincoes </h1>";   
+      
     
 }
+$stmt2 = $pdo->prepare("select count(*) from avaliar where idlugar='$txnome' and qntestrela=5");
+$stmt2 ->execute();   
+$row2 = $stmt2 ->fetch(PDO::FETCH_NUM);
+$fivestars = $row2[0];
+
+$stmt3 = $pdo->prepare("select count(*) from avaliar where idlugar='$txnome' and qntestrela=4");
+$stmt3 ->execute();   
+$row3 = $stmt3 ->fetch(PDO::FETCH_NUM);
+$fourstars = $row3[0];
+
+$stmt4 = $pdo->prepare("select count(*) from avaliar where idlugar='$txnome' and qntestrela=3");
+$stmt4 ->execute();   
+$row4 = $stmt4 ->fetch(PDO::FETCH_NUM);
+$threestars = $row4[0];
+
+$stmt5 = $pdo->prepare("select count(*) from avaliar where idlugar='$txnome' and qntestrela=2");
+$stmt5 ->execute();   
+$row5 = $stmt5 ->fetch(PDO::FETCH_NUM);
+$twostars = $row5[0];
+
+$stmt6 = $pdo->prepare("select count(*) from avaliar where idlugar='$txnome' and qntestrela=1");
+$stmt6 ->execute();   
+$row6 = $stmt6 ->fetch(PDO::FETCH_NUM);
+$onestar = $row6[0];
+
+$stmt7 = $pdo->prepare("select nome from tblugares where idlugar='$txnome'");
+$stmt7 ->execute();   
+$row7 = $stmt7 ->fetch(PDO::FETCH_NUM);
+$nomelugar = $row7[0];
+
+echo "<h1> Nome do Local: $nomelugar </h1>";
+
     
-
-
 }
 
 else {
@@ -143,7 +171,38 @@ else {
 
 ?>
 
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['bar']});
+      google.charts.setOnLoadCallback(drawChart);
 
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Estrelas', 'Quantidade de Avaliações'],
+          ['5 Estrelas', <?php echo $fivestars ?>],
+          ['4 Estrelas', <?php echo $fourstars ?>],
+          ['3 Estrelas', <?php echo $threestars ?>],
+          ['2 Estrelas', <?php echo $twostars ?>],
+          ['1 Estrela', <?php echo $onestar ?>]
+        ]);
+
+        var options = {
+          chart: {
+            title: 'Avaliações'
+            
+          },
+          bars: 'horizontal' // Required for Material Bar Charts.
+        };
+
+        var chart = new google.charts.Bar(document.getElementById('barchart_material'));
+
+        chart.draw(data, google.charts.Bar.convertOptions(options));
+      }
+    </script>
+  </head>
+  <body>
+    <div id="barchart_material" style="width: 900px; height: 500px;"></div>
+  </body>
 
 
             
