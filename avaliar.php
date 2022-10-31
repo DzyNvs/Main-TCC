@@ -9,7 +9,12 @@
 <link rel="stylesheet" href="css/estiloavaliar.css">
 
 
-
+        <h1> Avalie Um Lugar!
+        </h1>
+    <br>
+    <br>
+    <br>
+    <br>
 
         <h4>
 
@@ -82,12 +87,66 @@
 
 
 
+                    <h1> Pesquisa de Avaliações</h1>
+
+
+                    <form method="POST" action="" enctype="multipart/form-data">
+
+
+                    <div class="nomelugar">
+                    <label for="IdLugar">Selecione o local: </label> 
+                    <?php
+                 echo "<select name='txnomeavaliar'>";
+                  $stmt = $pdo->prepare("Select * from tbLugares ");
+                 $stmt ->execute();
+                echo "<option selected disabled value=''> Selecione uma Localidade </option>";
+                  while($row = $stmt ->fetch(PDO::FETCH_BOTH)){
+                echo "<option value='$row[0]'> $row[1] </option>";
+    }
+
+    
+    echo "</select>";
+    ?>
+</div> 
+    <input type="submit" value="Pesquisar">
+
+
+</form>
+
+
+<?php
+
+if(!empty($_POST['txnomeavaliar'])) {
+
+$txnome = $_POST['txnomeavaliar'];
+
+
+$stmt = $pdo->prepare("select * from avaliar where idlugar='$txnome'");
+$stmt ->execute();
+
+while ($row = $stmt ->fetch(PDO::FETCH_BOTH)) {
+    $count = $stmt->rowCount();
+    $cincoes = $row[1]==5;
+    
+    echo "<h1> $cincoes </h1>";   
+    
+}
+    
+
+
+}
+
+else {
+        
+    
+}
+
+?>
 
 
 
 
-
-
+            
 <?php
 
 include ("rodape.php");
