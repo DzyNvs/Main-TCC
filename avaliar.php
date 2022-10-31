@@ -159,8 +159,23 @@ $stmt7 ->execute();
 $row7 = $stmt7 ->fetch(PDO::FETCH_NUM);
 $nomelugar = $row7[0];
 
-echo "<h1> Nome do Local: $nomelugar </h1>";
+$valor5 = $fivestars * 5;
+$valor4 = $fourstars * 4;
+$valor3 = $threestars * 3;
+$valor2 = $twostars * 2;
+$valor1 = $onestar * 1;
 
+
+$juntos = array($valor5,$valor4,$valor3,$valor2,$valor1);
+$soma = array_sum($juntos);
+$media = $soma/$count;
+$media = number_format($media, 1, ',', '');
+
+
+
+echo "<h1>Nome do Local: $nomelugar </h1>";
+echo "<h1> Quantidades de avaliações: $count </h1>";
+echo "<h1>Média das Avaliações: $media  </h1>";
     
 }
 
