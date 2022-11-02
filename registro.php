@@ -41,15 +41,15 @@
           </h4>
           
         </label>
-  
-  
         <label class="login__label">
           <div class="row">
-          <span>senha</span>
-          <input type="password" name="userpass" class="input senha" id="senha">
+        <div id="impForcaSenha" class="fas"> </div>   
+        <div id="erroSenhaForca" class="fas"></div> 
+        <span>senha</span> <input type="password" name="userpass" class="input senha" id="senha" onkeyup="validarSenhaForca()">
           <img src="https://icon-library.com/images/icon-eyes/icon-eyes-12.jpg" class="btn">
           </div>
         </label>
+        
         
         <div class="form__group">
         <label class="login__label">
@@ -64,7 +64,7 @@
   ?>  
           </h4>
         </label>
-        <!--<div class="requirements__progressbar" data-requirement-progressbar data-percentage="0"></div>
+        <div class="requirements__progressbar" data-requirement-progressbar data-percentage="0"></div>
                         <div class="requirements__description">A senha deverá ter</div>
                         <ul class="requirements__list">
                             <li class="requirements__item" data-requirement-item="lowerUpperCase">
@@ -83,7 +83,7 @@
                             </li>
                         </ul>
                     </div>
--->        
+                    <script src="./personalizado.js"></script>
                     <script src="./mostrarsenha.js"></script>
                     <script src="./form-validation.js"></script>
         
