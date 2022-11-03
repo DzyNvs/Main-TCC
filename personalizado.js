@@ -28,7 +28,7 @@ function validarSenhaForca(){
 }
 
 function mostrarForca(forca){
-	document.getElementById("impForcaSenha").innerHTML = "Força: " + forca;
+	
 
 	if(forca < 30 ){
 		document.getElementById("erroSenhaForca").innerHTML = "<span style='color: #ff0000'; margin-left: 50%>Fraca</span>";

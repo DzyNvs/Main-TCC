@@ -64,28 +64,10 @@
   ?>  
           </h4>
         </label>
-        <div class="requirements__progressbar" data-requirement-progressbar data-percentage="0"></div>
-                        <div class="requirements__description">A senha deverá ter</div>
-                        <ul class="requirements__list">
-                            <li class="requirements__item" data-requirement-item="lowerUpperCase">
-                                <i class="fas"></i>
-                                Pelo menos 1 letra maiúscula e 1 letra minúscula</li>
-                            <li class="requirements__item" data-requirement-item="number">
-                                <i class="fas"></i>
-                                Pelo menos 1 número
-                            </li>
-                            <li class="requirements__item" data-requirement-item="specialCharacter">
-                                <i class="fas"></i>
-                                Pelo menos 1 caracter especial</li>
-                            <li class="requirements__item" data-requirement-item="minCharacter">
-                                <i class="fas"></i>
-                                Pelo menos 8 caracteres
-                            </li>
-                        </ul>
-                    </div>
+      
                     <script src="./personalizado.js"></script>
                     <script src="./mostrarsenha.js"></script>
-                    <script src="./form-validation.js"></script>
+                  
         
         <label class="login__label--checkbox">
           <input type="checkbox" class="input--checkbox">
