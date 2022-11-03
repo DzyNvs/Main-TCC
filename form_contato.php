@@ -22,11 +22,11 @@ include("menu.php");
 	<h4 class="aviso">
 	<?php
           if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "suamensagemfoienviada") { 
-			echo "Sua mensagem foi enviada!"; }}
+			echo "Sua mensagem foi enviada com sucesso!"; }}
 			
   	?>  
 	</h4>	
-	<h4 class="aviso">
+	<h4 class="aviso1">
 	<?php
           if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "houveumerro") { 
 			echo "Devido a um erro, sua mensagem não foi enviada!"; }}

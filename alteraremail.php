@@ -53,19 +53,13 @@
     <label for="exampleInputNome">Digite o novo e-mail:</label>
     <input type="email" class="form-control" id="exampleInputNome" name ="alteraremail"  placeholder="Novo E-mail">
     <small class="txtaviso">
-    
+    <h4 class="preencha">
 	<?php
           if (isset($_GET['erro'])) { if ($_GET['erro'] == "vazio") { 
 			echo "Preencha o formulário!"; }}
 			
-  	?>  
-
-                                </small>    
-    
-  </div>
-  
-  <button type="submit" class="btn btn-primary">Enviar</button>
-  <h4 class="txtaviso">
+  	?>
+    <h4 class="txtaviso">
 	<?php
           if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "emailalterado") { 
 			echo "O novo E-mail foi registrado no servidor!"; }}
@@ -73,13 +67,20 @@
   	?>  
 	</h4>
    
-    <h4 class="txtaviso">
+    <h4 class="txtaviso1">
 	<?php
           if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "erro") { 
 			echo "Devido a um erro, não foi possivel alterar o E-mail do usuário!"; }}
 			
   	?>  
-	</h4>
+	</h4>  
+</h4>
+                                </small>    
+    
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Enviar</button>
+  
     
   
 </form>

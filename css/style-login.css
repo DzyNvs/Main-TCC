@@ -26,6 +26,21 @@ body{
   color:rgb(25, 212, 50);
   margin-bottom:10px;
 }
+.error{
+  color: orange;
+  font-size: 19px;
+  
+}
+.error1{
+  color: red;
+  font-size: 15px;
+  margin-bottom:-10px;
+}
+.error2{
+  color: red;
+  font-size: 15px;
+  margin-top:-15px;
+}
 main {
   display: flex;
 }

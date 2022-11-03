@@ -16,9 +16,17 @@ body{
 
     position: relative;
     font-size: 20px;
-    color: rgb(0, 174, 255);
+    color:rgb(25, 212, 50);
 
 }
+.aviso1{
+
+    position: relative;
+    font-size: 20px;
+    color:red;
+
+}
+
 
 section{
     overflow-x: hidden;

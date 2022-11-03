@@ -34,7 +34,7 @@
         <label class="login__label">
           <span>email</span>
           <input type="email" name="useremail" class="input">
-          <h4 class ="error">
+          <h4 class ="error1">
            <?php
           if (isset($_GET['erro'])) { if ($_GET['erro'] == "emailcadastrado") { echo "O e-mail informado, já foi cadastrado!"; }}
   ?>  
@@ -58,7 +58,7 @@
           <input type="password" name="userpass2" class="input senha2" >
           <img src="https://icon-library.com/images/icon-eyes/icon-eyes-12.jpg" class="btn2">
           </div>
-          <h4 class ="error">
+          <h4 class ="error2">
            <?php
           if (isset($_GET['erro'])) { if ($_GET['erro'] == "senhanaocorrespondentes") { echo "As senhas não conferem!"; }}
   ?>  
