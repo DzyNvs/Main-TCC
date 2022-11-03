@@ -19,5 +19,6 @@ if(!isset($_SESSION['autorizar'])) {
         <center> <button> <a href=\"registro.php\"> Cadastrar </a> </button </center> 
         </div>
         </body>");
+        
 }
 ?>
