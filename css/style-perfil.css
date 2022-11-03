@@ -18,6 +18,21 @@ body{
     text-decoration: none;
     font-size: 26px;
 }
+.preencha{
+    position:relative;
+    color:orange;
+    font-size:20px;
+}
+.txtaviso{
+    position:relative;
+    color:rgb(25, 212, 50);
+    font-size:20px;
+}
+.txtaviso1{
+    position:relative;
+    color:red;
+    font-size:20px;
+}
 .sidebar{
     background-color: hsl(212, 92%, 53%);
     color: whitesmoke;
@@ -40,11 +55,4 @@ body{
     position: relative;
     top: 55px;
     background-color: whitesmoke;
-}
-.txtaviso{
-
-    position: relative;
-    font-size: 20px;
-    color: hsl(212, 92%, 53%);
-
 }

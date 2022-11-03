@@ -34,8 +34,8 @@
                                 echo '<h3>'. $_SESSION["nomebanco"]. "</h3>";
                                  }
                                 ?>
-                                <a href="">Alterar email</a>
-                                <a href="">Alterar senha</a>
+                                <a href="alteraremail">Alterar email</a>
+                                <a href="alterarsenha">Alterar senha</a>
                                
                                 <a href="logout.php">Logout</a>
                                
@@ -53,19 +53,14 @@
     <label for="exampleInputNome">Digite o novo nome:</label>
     <input type="text" class="form-control" id="exampleInputNome" name ="alterarnome"  placeholder="Novo nome">
     <small class="txtaviso">
-    
+    <h4 class="preencha">
 	<?php
           if (isset($_GET['erro'])) { if ($_GET['erro'] == "vazio") { 
 			echo "Preencha o formulário!"; }}
 			
   	?>  
-
-                                </small>    
-    
-  </div>
-  
-  <button type="submit" class="btn btn-primary">Enviar</button>
-  <h4 class="txtaviso">
+</h4>
+<h4 class="txtaviso">
 	<?php
           if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "nomealterado") { 
 			echo "O nome de usuário foi alterado!"; }}
@@ -73,13 +68,19 @@
   	?>  
 	</h4>
    
-    <h4 class="txtaviso">
+    <h4 class="txtaviso1">
 	<?php
           if (isset($_GET['erro'])) { if ($_GET['erro'] == "desconhecido") { 
 			echo "Devido a um erro, não foi possivel alterar o nome do usuário!"; }}
 			
   	?>  
 	</h4>
+                                </small>    
+    
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Enviar</button>
+
     
   
 </form>

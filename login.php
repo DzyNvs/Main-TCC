@@ -26,7 +26,7 @@
         <form action ="login-consulta.php" method ="post">
         <h4 class ="error">
            <?php
-          if (isset($_GET['erro'])) { if ($_GET['erro'] == "informacoesinvalidas") { echo "A senha ou e-mail está incorreta!"; }}
+          if (isset($_GET['erro'])) { if ($_GET['erro'] == "informacoesinvalidas") { echo "E-mail ou senha incorretos!"; }}
   ?>  
           </h3>
           <h4 class="registroconcluido">

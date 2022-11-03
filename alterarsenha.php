@@ -60,19 +60,14 @@
     <label for="exampleInputNome">Confirme a nova senha:</label>
     <input type="password" class="form-control" id="exampleInputNome" name ="confirmarsenha"  placeholder="Confirmar senha" minlength="8">
     <small class="txtaviso">
-    
+    <h4 class="preencha">
 	<?php
           if (isset($_GET['erro'])) { if ($_GET['erro'] == "vazio") { 
 			echo "Preencha o formulário!"; }}
 			
   	?>  
-
-                                </small>    
-    
-  </div>
-  
-  <button type="submit" class="btn btn-primary">Enviar</button>
-  <h4 class="txtaviso">
+    </h4>
+    <h4 class="txtaviso">
 	<?php
           if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "senhaalterada") { 
 			echo "Sua nova senha foi registrada no servidor!"; }}
@@ -80,7 +75,7 @@
   	?>  
 	</h4>
    
-    <h4 class="txtaviso">
+    <h4 class="txtaviso1">
 	<?php
           if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "naoconferem") { 
 			echo "As senhas não conferem!"; }}
@@ -88,7 +83,7 @@
   	?>  
 	</h4>
 
-    <h4 class="txtaviso">
+    <h4 class="txtaviso1">
 	<?php
           if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "antigasenha") { 
 			echo "Sua antiga senha está incorreta!"; }}
@@ -96,6 +91,13 @@
   	?>  
 	</h4>
     
+
+                                </small>    
+    
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Enviar</button>
+  
   
 </form>
 
