@@ -22,7 +22,10 @@ body{
   --blue: #1B77F3;
   --red: #1B77F3;
 }
-
+.registroconcluido{
+  color:rgb(25, 212, 50);
+  margin-bottom:10px;
+}
 main {
   display: flex;
 }

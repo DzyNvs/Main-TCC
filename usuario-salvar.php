@@ -30,7 +30,7 @@
 
                 $stmt = $pdo->prepare("insert into tbusuarios values ('$txemail',  '$txnome',  '$txsenha', null)");
                 $stmt ->execute();
-                header("location:login.php");
+                header("location:login.php?validacao=registro");
             }
             else{ 
                 

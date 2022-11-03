@@ -12,11 +12,11 @@ admin int(1)
 
 create table tbLugares(
 idLugar int primary key auto_increment,
-nome varchar(40),
-endereço varchar(40),
+nome varchar(100),
+endereço varchar(200),
 telefone varchar(40),
-descricao varchar(150),
-site varchar(40)
+descricao varchar(500),
+site varchar(100)
 );
 
 create table formContato(
@@ -25,4 +25,11 @@ nome varchar(60),
 emailuser varchar(120),
 assunto varchar(40),
 mensagem varchar(150)
+);
+
+create table avaliar(
+idavaliar int primary key auto_increment,
+qntestrela int,
+idlugar int,
+FOREIGN key (idlugar) REFERENCES tbLugares(idLugar)
 );
