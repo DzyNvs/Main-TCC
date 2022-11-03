@@ -87,6 +87,7 @@
                     </div>
                     </div>
                     <br>
+                    <br>
                    
 </div>
 
@@ -99,6 +100,11 @@
             </div>
         </div>
     </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
 </body>
 <?php
 include("rodape.php")
