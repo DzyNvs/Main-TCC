@@ -41,10 +41,10 @@
           </h4>
           
         </label>
+        <div id="impForcaSenha"> </div>   
+        <div id="erroSenhaForca"></div> 
         <label class="login__label">
           <div class="row">
-        <div id="impForcaSenha" class="fas"> </div>   
-        <div id="erroSenhaForca" class="fas"></div> 
         <span>senha</span> <input type="password" name="userpass" class="input senha" id="senha" onkeyup="validarSenhaForca()">
           <img src="https://icon-library.com/images/icon-eyes/icon-eyes-12.jpg" class="btn">
           </div>
