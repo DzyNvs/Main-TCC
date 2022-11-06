@@ -42,9 +42,13 @@
         </label>
   
         <label class="login__label">
+        <div class="row">
           <span>senha</span>
-          <input type="password" name="userpass" class="input">
+          <input type="password" name="userpass" class="input senha" id="senha">
+          <img src="https://icon-library.com/images/icon-eyes/icon-eyes-12.jpg" class="btn">
         </label>
+
+        <script src="./mostrarsenha.js"></script>
   
         <div class="login__icons">
           <button type="button" class="icons__button">
