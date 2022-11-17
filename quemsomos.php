@@ -56,10 +56,13 @@
       <div class="col-md-6 apply-box" id="company-img"></div>
       <div class="col-md-6 apply-box" id="patter-img">
   <h4 style="color:white">
-    Titulo da aba
+    Nosso time
 </h4>
 <p style="color:white">
-orem ipsum dolor sit amet, consectetur adipiscing elit. Mauris metus libero, dapibus rhoncus arcu ut, viverra pretium diam. Donec et porta massa. Fusce vel sem id erat finibus vestibulum. Nulla imperdiet interdum lorem. Proin elementum neque vel augue feugiat commodo. In hac habitasse platea dictumst. Proin scelerisque, risus in congue fringilla, mi nibh pharetra lacus, quis facilisis sem eros ac libero. Nulla quis neque nec arcu efficitur ultrices sit amet vitae nunc. Nam non luctus velit. Etiam id nisl euismod, euismod erat a, eleifend felis. Cras vel lorem eu massa vulputate pharetra. In vitae venenatis neque, et pulvinar lectus. Nullam vestibulum nisi vitae sem convallis accumsan. Sed aliquet arcu odio, nec tincidunt elit semper non. Morbi eget accumsan lectus, tempor efficitur neque. Morbi ac gravida ligula.
+Somos uma equipe formada por seis jovens estudantes, focada na excelência e realização do projeto, com o intuito de que todos os membros aprendam e se desenvolvam demasiadamente.</p>
+<br>
+<p style="color:white">
+Como integrantes do time temos: André Luiz, o principal desenvolvedor back-end do projeto e o responsável por liderar a equipe, Daniel Henrique, desenvolvedor front-end e o responsável por todas as tarefas envolvendo a documentação do projeto, Diego Eusebio, desenvolvedor responsável pelo back-end do projeto, Fabricio Souza, desenvolvedor responsável pelo front-end do projeto, Felipe Bonelli, principal responsavél pelo design do site e desenvolvedor front e back-end, e Leonardo Alves, desenvolvedor responsável pelo front e back-end do projeto.
 </p>
 
 </div>

@@ -49,25 +49,7 @@
         </label>
 
         <script src="./mostrarsenha.js"></script>
-  
-        <div class="login__icons">
-          <button type="button" class="icons__button">
-            <img src="img/facebook-icon.png" alt="facebok">
-          </button>
-  
-          <button type="button" class="icons__button">
-            <img src="img/google-icon.png" alt="facebok">
-          </button>
-  
-          <button type="button" class="icons__button">
-            <img src="img/apple-icon.png" alt="facebok">
-          </button>
-        </div>
-  
-        <label class="login__label--checkbox">
-          <input type="checkbox" class="input--checkbox">
-          Manter login
-        </label>
+
       </div>
 
       <div class="wrapper">

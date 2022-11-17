@@ -69,10 +69,7 @@
                     <script src="./mostrarsenha.js"></script>
                   
         
-        <label class="login__label--checkbox">
-          <input type="checkbox" class="input--checkbox">
-          Manter login
-        </label>
+        
       </div>
      
       <div class="wrapper">
