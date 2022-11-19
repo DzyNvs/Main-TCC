@@ -7,11 +7,11 @@
 
 
 body{
-    overflow-x: hidden;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-    background: linear-gradient(to right, rgb(255, 255, 255), lightblue);
+  overflow-x: hidden;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: linear-gradient(to right, rgb(255, 255, 255), lightblue);
     
 }
 
@@ -103,3 +103,12 @@ margin-bottom: 20px;
     
   
   }
+
+h4{
+  text-transform: uppercase;
+}
+
+p{
+  font-weight: bold;
+  /*-webkit-text-stroke: 1px rgb(48, 202, 202);*/
+}

@@ -22,8 +22,8 @@
 	  <div class="container">
 	  <div class="row featurette">
             <div class="col-md-7">
-                <h2 class="featurette-heading">Objetivos do Projeto</h2>
-                <p class="lead">O projeto SPSUBMERSO é um site voltado ao mundo submarino, tendo como foco a região da cidade de São Paulo, nele se é 
+                <center> <h2 class="featurette-heading">OBJETIVOS DO PROJETO</h2> <center>
+                <p class="xavasca">O projeto SP SUBMERSO é um site voltado ao mundo submarino, tendo como foco a região da cidade de São Paulo, nele se é 
                 possivel encontrar informações sobre diversas atividades referentes a esse maravilhoso mundo, que vão desde clubes e 
                 atividades aquáticas como natação, até zoológicos com foco na vida marinha.
               <br /><br />
@@ -62,7 +62,8 @@
 Somos uma equipe formada por seis jovens estudantes, focada na excelência e realização do projeto, com o intuito de que todos os membros aprendam e se desenvolvam demasiadamente.</p>
 <br>
 <p style="color:white">
-Como integrantes do time temos: André Luiz, o principal desenvolvedor back-end do projeto e o responsável por liderar a equipe, Daniel Henrique, desenvolvedor front-end e o responsável por todas as tarefas envolvendo a documentação do projeto, Diego Eusebio, desenvolvedor responsável pelo back-end do projeto, Fabricio Souza, desenvolvedor responsável pelo front-end do projeto, Felipe Bonelli, principal responsavél pelo design do site e desenvolvedor front e back-end, e Leonardo Alves, desenvolvedor responsável pelo front e back-end do projeto.
+Os integrantes do time são: André Neves e Diego Eusebio como desenvolvedores back-end do projeto, Daniel Santos e Fabrício Souza como responsáveis pelo front-end, e Felipe Bonelli e Leonardo Alves dando suporte tanto no front-end quanto no back-end. 
+<br><br>Programação à parte, o membro Felipe Bonelli é também o principal responsável pelo design do projeto, enquanto Daniel Santos é o responsável por todas as tarefas envolvendo sua documentação. Sendo por fim André Neves o encarregado da liderança da equipe.
 </p>
 
 </div>

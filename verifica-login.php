@@ -12,7 +12,7 @@ if(!isset($_SESSION['autorizar'])) {
         "<link rel='stylesheet' href='css/style-verifica-login.css'>
         <body>
         <div>
-        <p> Você não pode acessar esta página porque não está logado </p> 
+        <p> Você não pode acessar essa página porque não está logado </p> 
         <br>
         <center> <button> <a href=\"login.php\"> Entrar </a> </button> </center> 
         <br><img height=50 src=img/logopeixe.png><br> 
