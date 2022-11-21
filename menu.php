@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -48,8 +50,35 @@
 })
     }    
 </script>
+    <!--
+     <?php
+
+     /* if ($_SESSION['autorizar'] = true){
+
+        echo "<li class='nav-item active'>
+        <a onclick='abrirAlerta()' class='nav-link' href='form_contato.php'> Contato </a>
+      </li>";
+      }
+        else{
+
+          echo "<li class='nav-item active'>
+        <a onclick='abrirAlerta()' class='nav-link' href='form_contato.php'> Contato </a>
+      </li>";
+
+        }
+
+      
+          */
+      ?>
+      
       <li class="nav-item active">
         <a onclick="abrirAlerta()" class="nav-link" href="form_contato.php"> Contato </a>
+      </li>
+
+      -->
+
+      <li class="nav-item active">
+        <a class="nav-link" href="form_contato.php"> Contato </a>
       </li>
       <li class="nav-item active">
         <a class="nav-link" href="quemsomos.php"> Quem Somos </a>

@@ -49,9 +49,8 @@
                     
 
                     <div class="medias-socias">
-                        <a href="#"> <i class="fa fa-facebook"></i> </a>
-                        <a href="#"> <i class="fa fa-instagram"></i> </a>
-                        <a href="#"> <i class="fa fa-twitter"></i> </a>
+                        <a target="_blank" href="https://www.facebook.com/profile.php?id=100087941536698"> <i class="fa fa-facebook"></i> </a>
+                        <a target="_blank" href="https://twitter.com/spsubmerso"> <i class="fa fa-twitter"></i> </a>
                        
                     </div>
 
