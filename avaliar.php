@@ -8,40 +8,33 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="css/estiloavaliar.css">
 
-
-        <h1> Avalie Um Lugar!
-        </h1>
+  
     <br>
     <br>
     <br>
     <br>
 
-        <h4>
+        
 
-        <?php
-          if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "registrada") { 
-			echo "Sua avaliação foi registrada!"; }}
-			
-  	    ?>  
-        </h4>
-        <h4>
+        <div class="container">
+        <div class="row featurette">
+        <div class="col-md-7"> 
+        <center> <h2 class="featurette-heading">Avalie um lugar!  </h2> <center>
+          <p class="p"> Visitou algum ponto turístico do site recentemente? Deixe sua avaliação abaixo de acordo com sua experiência.
+         </p>
+        
 
-        <?php
-         if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "houveumerro") { 
-        echo "É necessário escolher um local e selecionar no minímo uma estrela!"; }}
-    
-        ?>  
-        </h4>
-
-
+         <br>
+         <br>
+         <br>
         <form method="POST" action="processa.php" enctype="multipart/form-data">
 
 
         <div class="nomelugar">
-        <label for="IdLugar">Selecione o local: </label> 
+        <label for="IdLugar" style="font-weight: bold">Selecione o local: </label> 
         <?php
         
-            echo "<select name='txnomelugar'>";
+            echo "<select  name='txnomelugar'>";
             $stmt = $pdo->prepare("Select * from tbLugares ");
             $stmt ->execute();
             echo "<option selected disabled value=''> Selecione uma Localidade </option>";
@@ -79,22 +72,88 @@
 				<label for="estrela_cinco"><i class="fa"></i></label>
 				<input type="radio" id="estrela_cinco" name="estrela" value="5"><br><br>
 				
-				<input type="submit" value="Cadastrar">
+				<input type="submit" class="btn btn-outline-primary" value="Registrar Avaliação">
 				
 			</div>
 		</form>
 
+    <h4 class="sucess">
+
+<?php
+  if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "registrada") { 
+echo "Sua avaliação foi registrada!"; }}
+
+?>  
+</h4>
+
+<h4 class="sucess">
+
+        <?php
+         if (isset($_GET['validacao'])) { if ($_GET['validacao'] == "houveumerro") { 
+        echo "É necessário escolher um local e selecionar no minímo uma estrela!"; }}
+    
+        ?>  
+        </h4>
 
 
 
-                    <h1> Pesquisa de Avaliações</h1>
+          </div>
+          <div class="col-md-5">
 
+          <img class="featurette-image img-fluid rounded-top mx-auto" src="img/shutterstock_1576875433-770x510.jpg" 
+                    >
+
+          </div>
+
+          </div>
+          </div>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+                  <div class="container">
+                  <div class="row featurette">
+
+
+                  <div class="col-md-7"> 
+                  <img class="featurette-image img-fluid rounded-top mx-auto" src="img/52817_wet-n-wild.jpg" 
+                    >
+
+
+                  </div>  
+
+                  <div class="col-md-5"> 
+
+                  <center> <h2 class="featurette-heading">Pesquisa de Avaliações!  </h2> <center>
+                    <p> Pretende visitar algum dos pontos turísticos? Pesquise e veja as avaliações sobre estes lugares! 
+         </p>
+          <br>
+          <br>
+          <br>
 
                     <form method="POST" action="" enctype="multipart/form-data">
 
 
                     <div class="nomelugar">
-                    <label for="IdLugar">Selecione o local: </label> 
+                    <label for="IdLugar" style="font-weight: bold">Selecione o local: </label> 
                     <?php
                  echo "<select name='txnomeavaliar' required>";
                   $stmt = $pdo->prepare("Select * from tbLugares ");
@@ -108,10 +167,15 @@
     echo "</select>";
     ?>
 </div> 
-    <input type="submit" value="Pesquisar">
+    <br>
+    <input type="submit" class="btn btn-outline-primary" value="Pesquisar">
 
 
 </form>
+  
+  </div>
+  </div>
+  </div>
 
 
 <?php
@@ -119,7 +183,7 @@
 if(!empty($_POST['txnomeavaliar'])) {
 
 $txnome = $_POST['txnomeavaliar'];
-
+$count = 0;
 
 $stmt = $pdo->prepare("select * from avaliar where idlugar='$txnome'");
 $stmt ->execute();
@@ -129,6 +193,17 @@ while ($row = $stmt ->fetch(PDO::FETCH_BOTH)) {
       
     
 }
+
+if ($count == 0){
+
+echo " <div class='container'>
+<div class='row featurette'> <div class='col-md-7'></div> <div class='col-md-5'>  <h1 class='sucess'> Não foi possivel encontrar nenhuma avaliação para essa localidade!</h1>
+ </div> </div> </div>";
+
+
+}
+
+else{
 $stmt2 = $pdo->prepare("select count(*) from avaliar where idlugar='$txnome' and qntestrela=5");
 $stmt2 ->execute();   
 $row2 = $stmt2 ->fetch(PDO::FETCH_NUM);
@@ -173,19 +248,30 @@ $media = number_format($media, 1, ',', '');
 
 
 
-echo "<h1>Nome do Local: $nomelugar </h1>";
-echo "<h1> Quantidades de avaliações: $count </h1>";
-echo "<h1>Média das Avaliações: $media  </h1>";
+echo "
+<br>
+<br>
+<br>
+<br>
+<div class='container'>
+<div class='row featurette'>
+<div class='col-md-3'>
+
+<h1 class='info'>Nome do Local: $nomelugar </h1>";
+echo "<h1 class='info'> Quantidades de avaliações: $count </h1>";
+echo "<h1 class='info'>Média das Avaliações: $media  </h1>
+</div>"
+;
     
 }
-
+}
 else {
         
     
 }
 
 ?>
-
+<div class='col-md-9' style ="margin-top: 10px">
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
       google.charts.load('current', {'packages':['bar']});
@@ -216,12 +302,15 @@ else {
     </script>
   </head>
   <body>
-    <div id="barchart_material" style="width: 900px; height: 500px;"></div>
+    <div id="barchart_material" style="width: 700px; height: 300px;"></div>
   </body>
-
-
+    </div>    
+    </div>
+    </div>
             
 <?php
+
+
 
 include ("rodape.php");
 ?>

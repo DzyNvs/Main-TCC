@@ -6,3 +6,37 @@
 }.estrelas  input[type=radio]:checked  ~ label i.fa:before{
 	color: #CCC;
 }
+
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    color: darkblue;
+    font-weight: bold;
+}
+
+p{
+	font-weight: bold;
+	/*-webkit-text-stroke: 1px rgb(48, 202, 202);*/
+  }
+
+  body{
+	overflow-x: hidden;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	background: linear-gradient(to right, rgb(255, 255, 255), lightblue);
+	  
+  }
+
+  .sucess{
+	font-size: smaller;
+	color:darkblue;
+	margin-bottom:10px;
+  }
+
+  .info{
+    font-family: 'Raleway', sans-serif;
+    color: darkblue;
+    font-weight: bold;
+	font-size: medium;
+}
