@@ -28,12 +28,12 @@
                             <div class="mt-3">
                                 <br>
                                 <br>
-                                <a href="perfil.php">Meu Perfil</a>
-                                <?php
+                                <a>Olá <?php
                                 if(isset($_SESSION['nomebanco'])) {
-                                echo '<h3>'. $_SESSION["nomebanco"]. "</h3>";
+                                echo $_SESSION["nomebanco"];
                                  }
-                                ?>
+                                ?> !</a>
+                                
                                 <a href="alteraremail.php">Alterar email</a>
                                 <a href="alterarsenha.php">Alterar senha</a>
                               
